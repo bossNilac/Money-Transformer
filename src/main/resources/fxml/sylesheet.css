@@ -1,0 +1,10 @@
+.menu-item .label {
+  -fx-font-family: monospace;  
+  -fx-font-size: 9;
+}
+     .axis-label {
+      -fx-text-fill: #fdc68a;
+    }
+    .axis {
+      -fx-tick-label-fill: #fdc68a;
+    }

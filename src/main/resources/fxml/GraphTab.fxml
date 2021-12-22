@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="634.0" prefWidth="823.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.GraphTabController">
+   <children>
+      <Pane fx:id="graphPane" layoutX="-1.0" prefHeight="634.0" prefWidth="908.0" style="-fx-background-color: #121111;">
+         <children>
+            <LineChart fx:id="inflationChart" layoutX="14.0" layoutY="137.0" prefHeight="431.0" prefWidth="832.0" stylesheets="@sylesheet.css" visible="false">
+              <xAxis>
+                <CategoryAxis label="month+year" side="BOTTOM" stylesheets="@sylesheet.css" tickLabelFill="#fdc68a" />
+              </xAxis>
+              <yAxis>
+                <NumberAxis label="change(%)" prefHeight="369.0" prefWidth="41.0" side="LEFT" tickLabelFill="#fdc68a">
+                     <stylesheets>
+                        <URL value="@sylesheet.css" />
+                        <URL value="@sylesheet.css" />
+                     </stylesheets></NumberAxis>
+              </yAxis>
+            </LineChart>
+            <MenuButton fx:id="tableInfoButton" layoutX="55.0" layoutY="112.0" mnemonicParsing="false" text="Select table info">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#changeToRon" text="RON inflation" />
+                  <MenuItem mnemonicParsing="false" onAction="#changeToRontoUSD" text="RON to USD" />
+                  <MenuItem mnemonicParsing="false" onAction="#changeToRontoEUR" text="RON to EUR" />
+              </items>
+            </MenuButton>
+            <ImageView fitHeight="120.0" fitWidth="200.0" layoutX="320.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" />
+            <Button fx:id="exitButtonGraphTab" layoutX="750.0" layoutY="568.0" mnemonicParsing="false" onAction="#ExitTransform" style="-fx-background-color: transparent;" text="Exit" textFill="#ebebeb">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="mainmenuButtonGraphTab" layoutX="99.0" layoutY="568.0" mnemonicParsing="false" onAction="#toMainMenu" style="-fx-background-color: transparent;" text="Main Menu" textFill="#fdc68a">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+            <ImageView fx:id="imageviewGraphTab" fitHeight="121.0" fitWidth="285.0" layoutX="316.0" layoutY="14.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../app/logo_darkmode.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="moreButton" layoutX="385.0" layoutY="568.0" mnemonicParsing="false" onAction="#toTransformTab" style="-fx-background-color: transparent;" text="Conversion Tab" textFill="#fdc68a">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+            <LineChart fx:id="ronToUsdChart" layoutX="14.0" layoutY="137.0" prefHeight="431.0" prefWidth="832.0" stylesheets="@sylesheet.css" visible="false">
+               <xAxis>
+                  <CategoryAxis label="month+year" side="BOTTOM" stylesheets="@sylesheet.css" tickLabelFill="#fdc68a" />
+               </xAxis>
+               <yAxis>
+                  <NumberAxis label="Value" prefHeight="369.0" prefWidth="41.0" side="LEFT" tickLabelFill="#fdc68a">
+                     <stylesheets>
+                        <URL value="@sylesheet.css" />
+                        <URL value="@sylesheet.css" />
+                     </stylesheets>
+                  </NumberAxis>
+               </yAxis>
+            </LineChart>
+            <LineChart fx:id="ronToEurChart" layoutX="14.0" layoutY="137.0" prefHeight="431.0" prefWidth="832.0" stylesheets="@sylesheet.css" visible="false">
+               <xAxis>
+                  <CategoryAxis label="month+year" side="BOTTOM" stylesheets="@sylesheet.css" tickLabelFill="#fdc68a" />
+               </xAxis>
+               <yAxis>
+                  <NumberAxis label="Value" prefHeight="369.0" prefWidth="41.0" side="LEFT" tickLabelFill="#fdc68a">
+                     <stylesheets>
+                        <URL value="@sylesheet.css" />
+                        <URL value="@sylesheet.css" />
+                     </stylesheets>
+                  </NumberAxis>
+               </yAxis>
+            </LineChart>
+         </children>
+      </Pane>
+      <Pane layoutY="6.0" prefHeight="591.0" prefWidth="823.0" visible="false">
+         <children>
+            <LineChart layoutX="74.0" layoutY="118.0">
+              <xAxis>
+                <CategoryAxis side="BOTTOM" />
+              </xAxis>
+              <yAxis>
+                <NumberAxis side="LEFT" />
+              </yAxis>
+            </LineChart>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

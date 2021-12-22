@@ -1,0 +1,1386 @@
+Fri Feb 19 21:13:30 EET 2021:Changed Language to: Română
+Fri Feb 19 21:16:37 EET 2021:App started
+Fri Feb 19 21:16:46 EET 2021:Changed Language to: Română
+Fri Feb 19 21:16:47 EET 2021:Changed Language to: English
+Fri Feb 19 21:16:54 EET 2021:Changed Language to: Română
+Fri Feb 19 21:16:55 EET 2021:Changed Language to: Français
+Fri Feb 19 21:18:30 EET 2021:App started
+Fri Feb 19 21:20:05 EET 2021:App started
+Fri Feb 19 21:20:44 EET 2021:App exited
+Fri Feb 19 21:47:38 EET 2021:App started
+java.text.SimpleDateFormat@b2905d21:App started
+Sun Feb 21 13:32:04 EET 2021:App started
+Sun Feb 21 13:32:18 EET 2021:App exited
+Sun Feb 21 13:33:45 EET 2021:App started
+Sun Feb 21 13:33:54 EET 2021:Changed Language to: Română
+Sun Feb 21 13:33:55 EET 2021:Changed Language to: Français
+Sun Feb 21 13:33:56 EET 2021:Changed Language to: Deutsch
+Sun Feb 21 13:33:56 EET 2021:Changed Language to: Español
+Sun Feb 21 13:33:57 EET 2021:Changed Language to: Italiano
+Sun Feb 21 13:33:57 EET 2021:Changed Language to: English
+Sun Feb 21 13:33:57 EET 2021:Changed Language to: Română
+Sun Feb 21 13:33:58 EET 2021:Changed Language to: Français
+Sun Feb 21 13:33:58 EET 2021:Changed Language to: Deutsch
+Sun Feb 21 13:33:59 EET 2021:Changed Language to: Español
+Sun Feb 21 13:33:59 EET 2021:Changed Language to: Italiano
+Sun Feb 21 13:33:59 EET 2021:Changed Language to: English
+Sun Feb 21 13:34:00 EET 2021:Changed Language to: Română
+Sun Feb 21 13:34:00 EET 2021:Changed Language to: Français
+Sun Feb 21 13:34:00 EET 2021:App exited
+Sun Feb 21 13:35:46 EET 2021:App started
+Sun Feb 21 13:35:57 EET 2021:Changed Language to: Română
+Sun Feb 21 13:35:58 EET 2021:Changed Language to: Français
+Sun Feb 21 13:35:59 EET 2021:Changed Language to: Deutsch
+Sun Feb 21 13:35:59 EET 2021:Changed Language to: Español
+Sun Feb 21 13:36:00 EET 2021:Changed Language to: Deutsch
+Sun Feb 21 13:36:05 EET 2021:App exited
+Sun Feb 21 13:37:24 EET 2021:App started
+Sun Feb 21 13:37:33 EET 2021:App exited
+Sun Feb 21 13:38:30 EET 2021:App started
+Sun Feb 21 13:39:12 EET 2021:App started
+Sun Feb 21 13:39:37 EET 2021:Changed Language to: Română
+Sun Feb 21 13:39:40 EET 2021:Changed Language to: English
+Sun Feb 21 13:39:41 EET 2021:Changed Language to: Română
+Sun Feb 21 13:39:43 EET 2021:Changed Language to: English
+Sun Feb 21 13:39:44 EET 2021:Changed Language to: Română
+Sun Feb 21 13:39:44 EET 2021:Changed Language to: Français
+Sun Feb 21 13:39:44 EET 2021:Changed Language to: Deutsch
+Sun Feb 21 13:39:44 EET 2021:Changed Language to: Español
+Sun Feb 21 13:39:45 EET 2021:Changed Language to: Italiano
+Sun Feb 21 13:39:45 EET 2021:Changed Language to: English
+Sun Feb 21 13:39:45 EET 2021:Changed Language to: Română
+Sun Feb 21 13:39:46 EET 2021:Changed Language to: English
+Sun Feb 21 13:39:46 EET 2021:Changed Language to: Italiano
+Sun Feb 21 13:39:47 EET 2021:Changed Language to: Español
+Sun Feb 21 13:39:47 EET 2021:Changed Language to: Deutsch
+Sun Feb 21 13:39:47 EET 2021:Changed Language to: Français
+Sun Feb 21 13:39:47 EET 2021:Changed Language to: Română
+Sun Feb 21 13:39:48 EET 2021:App exited
+Sun Feb 21 13:40:07 EET 2021:App started
+Sun Feb 21 13:40:37 EET 2021:App started
+Sun Feb 21 13:41:03 EET 2021:App started
+Sun Feb 21 13:41:28 EET 2021:App started
+Sun Feb 21 13:42:14 EET 2021:App started
+Sun Feb 21 13:43:12 EET 2021:App started
+Sun Feb 21 13:43:49 EET 2021:Changed theme to: de
+Sun Feb 21 13:43:50 EET 2021:Changed theme to: de
+Sun Feb 21 13:43:53 EET 2021:App exited
+Sun Feb 21 13:57:32 EET 2021:App started
+Sun Feb 21 13:58:01 EET 2021:App exited
+Sun Feb 21 13:59:54 EET 2021:App started
+Sun Feb 21 14:02:20 EET 2021:App started
+Sun Feb 21 14:02:51 EET 2021:App started
+Sun Feb 21 14:03:23 EET 2021:App started
+Sun Feb 21 14:03:48 EET 2021:App started
+Sun Feb 21 14:04:09 EET 2021:App started
+Sun Feb 21 14:04:47 EET 2021:App started
+Sun Feb 21 14:05:10 EET 2021:App started
+Sun Feb 21 14:05:45 EET 2021:App started
+Sun Feb 21 14:06:17 EET 2021:App started
+Sun Feb 21 14:08:51 EET 2021:App started
+Sun Feb 21 14:09:38 EET 2021:App started
+Sun Feb 21 14:10:00 EET 2021:App started
+Sun Feb 21 14:10:18 EET 2021:App started
+Sun Feb 21 14:10:36 EET 2021:App started
+Sun Feb 21 14:11:08 EET 2021:App started
+Sun Feb 21 14:11:25 EET 2021:App started
+Sun Feb 21 14:11:46 EET 2021:App started
+Sun Feb 21 14:14:26 EET 2021:App started
+Sun Feb 21 14:18:21 EET 2021:App started
+Sun Feb 21 14:18:35 EET 2021:Changed theme to: de
+Sun Feb 21 14:18:43 EET 2021:App started
+Sun Feb 21 14:19:35 EET 2021:App started
+Sun Feb 21 14:19:46 EET 2021:App exited
+Sun Feb 21 14:19:53 EET 2021:App exited
+Sun Feb 21 14:20:01 EET 2021:App started
+Sun Feb 21 14:20:01 EET 2021:App started
+Sun Feb 21 14:20:47 EET 2021:App started
+Sun Feb 21 14:21:06 EET 2021:App exited
+Sun Feb 21 14:21:35 EET 2021:App started
+Sun Feb 21 14:21:56 EET 2021:App started
+Sun Feb 21 14:25:32 EET 2021:App exited
+Mon Feb 22 13:19:31 EET 2021:App started
+Mon Feb 22 13:20:16 EET 2021:App started
+Mon Feb 22 13:20:40 EET 2021:App started
+Mon Feb 22 13:20:59 EET 2021:App started
+Mon Feb 22 13:21:40 EET 2021:Changed Language to: Español
+Mon Feb 22 13:21:44 EET 2021:Changed Language to: Italiano
+Mon Feb 22 13:21:45 EET 2021:Changed Language to: English
+Mon Feb 22 13:21:48 EET 2021:App exited
+Mon Feb 22 13:22:19 EET 2021:App started
+Mon Feb 22 13:22:39 EET 2021:Changed theme to: en
+Mon Feb 22 13:22:48 EET 2021:App exited
+Mon Feb 22 13:23:56 EET 2021:App started
+Mon Feb 22 13:24:11 EET 2021:App started
+Mon Feb 22 13:24:21 EET 2021:App exited
+Mon Feb 22 13:24:40 EET 2021:App started
+Mon Feb 22 13:24:58 EET 2021:App exited
+Tue Feb 23 09:57:42 EET 2021:App started
+Tue Feb 23 09:57:54 EET 2021:Changed theme to: dark
+Tue Feb 23 09:57:59 EET 2021:App exited
+Tue Feb 23 09:58:09 EET 2021:App started
+Tue Feb 23 09:58:56 EET 2021:Changed Language to: Română
+Tue Feb 23 09:58:58 EET 2021:Changed Language to: Français
+Tue Feb 23 09:58:59 EET 2021:Changed Language to: Deutsch
+Tue Feb 23 09:58:59 EET 2021:Changed Language to: Español
+Tue Feb 23 09:58:59 EET 2021:Changed Language to: Italiano
+Tue Feb 23 09:59:01 EET 2021:App exited
+Tue Feb 23 10:24:59 EET 2021:App started
+Tue Feb 23 10:25:43 EET 2021:App started
+Tue Feb 23 10:33:52 EET 2021:App started
+Tue Feb 23 10:34:29 EET 2021:App started
+Tue Feb 23 10:34:38 EET 2021:Changed Language to: Română
+Tue Feb 23 10:34:38 EET 2021:Changed Language to: Français
+Tue Feb 23 10:34:39 EET 2021:Changed Language to: Deutsch
+Tue Feb 23 10:34:40 EET 2021:Changed Language to: Español
+Tue Feb 23 10:34:40 EET 2021:Changed Language to: Italiano
+Tue Feb 23 10:34:41 EET 2021:Changed Language to: English
+Tue Feb 23 10:34:42 EET 2021:App exited
+Tue Feb 23 10:35:50 EET 2021:App started
+Tue Feb 23 10:40:58 EET 2021:App started
+Tue Feb 23 10:41:07 EET 2021:Changed Language to: Română
+Tue Feb 23 10:41:07 EET 2021:Changed Language to: Français
+Tue Feb 23 10:41:10 EET 2021:Changed Language to: Deutsch
+Tue Feb 23 10:41:12 EET 2021:Changed Language to: Español
+Tue Feb 23 10:41:16 EET 2021:Changed Language to: Italiano
+Tue Feb 23 10:41:17 EET 2021:Changed Language to: English
+Tue Feb 23 10:41:18 EET 2021:Changed Language to: Română
+Tue Feb 23 10:41:21 EET 2021:Changed Language to: Français
+Tue Feb 23 10:41:22 EET 2021:Changed Language to: Deutsch
+Tue Feb 23 10:41:24 EET 2021:Changed Language to: Español
+Tue Feb 23 10:41:31 EET 2021:Changed Language to: Deutsch
+Tue Feb 23 10:41:33 EET 2021:Changed Language to: Español
+Tue Feb 23 10:41:34 EET 2021:Changed Language to: Italiano
+Tue Feb 23 10:43:03 EET 2021:App started
+Tue Feb 23 10:43:14 EET 2021:App started
+Tue Feb 23 10:43:53 EET 2021:App started
+Tue Feb 23 10:44:26 EET 2021:Changed Language to: Deutsch
+Tue Feb 23 10:44:27 EET 2021:Changed Language to: Français
+Tue Feb 23 10:44:39 EET 2021:App started
+Tue Feb 23 10:48:03 EET 2021:App started
+Tue Feb 23 10:48:16 EET 2021:Changed Language to: Italiano
+Tue Feb 23 10:48:16 EET 2021:Changed Language to: Espa�ol
+Tue Feb 23 10:48:17 EET 2021:Changed Language to: Deutsch
+Tue Feb 23 10:48:17 EET 2021:Changed Language to: Fran�ais
+Tue Feb 23 10:48:18 EET 2021:Changed Language to: Rom�na
+Tue Feb 23 10:48:19 EET 2021:Changed Language to: English
+Tue Feb 23 10:48:20 EET 2021:Changed Language to: Rom�na
+Tue Feb 23 10:48:23 EET 2021:App exited
+Wed Feb 24 18:17:58 EET 2021:App started
+Wed Feb 24 18:18:08 EET 2021:Changed Language to: Italiano
+Wed Feb 24 18:18:08 EET 2021:Changed Language to: English
+Wed Feb 24 18:18:09 EET 2021:Changed Language to: Rom�na
+Wed Feb 24 18:18:10 EET 2021:Changed Language to: Fran�ais
+Wed Feb 24 18:18:11 EET 2021:Changed Language to: Deutsch
+Wed Feb 24 18:18:11 EET 2021:Changed Language to: Espa�ol
+Wed Feb 24 18:18:14 EET 2021:App exited
+Wed Feb 24 21:03:30 EET 2021:App started
+Wed Feb 24 21:05:19 EET 2021:App exited
+Wed Feb 24 21:05:29 EET 2021:App started
+Wed Feb 24 21:08:07 EET 2021:App exited
+Sun Feb 28 16:39:33 EET 2021:App started
+Wed Mar 03 18:33:28 EET 2021:App started
+Wed Mar 03 18:39:46 EET 2021:App started
+Wed Mar 03 18:44:36 EET 2021:App started
+Wed Mar 03 18:45:47 EET 2021:App started
+Wed Mar 03 18:47:01 EET 2021:App started
+Wed Mar 03 18:50:09 EET 2021:App started
+Wed Mar 03 18:51:45 EET 2021:App started
+Wed Mar 03 18:52:08 EET 2021:App started
+Wed Mar 03 18:53:54 EET 2021:App started
+Wed Mar 03 18:55:47 EET 2021:App started
+Wed Mar 03 18:58:27 EET 2021:App started
+Wed Mar 03 18:58:57 EET 2021:App started
+Wed Mar 03 19:08:43 EET 2021:App started
+Wed Mar 03 19:12:11 EET 2021:App started
+Wed Mar 03 19:14:49 EET 2021:App started
+Wed Mar 03 19:15:16 EET 2021:App started
+Wed Mar 03 19:40:39 EET 2021:App started
+Wed Mar 03 19:41:11 EET 2021:App started
+Wed Mar 03 19:42:09 EET 2021:App started
+Wed Mar 03 19:43:03 EET 2021:App exited
+Wed Mar 03 19:53:09 EET 2021:App started
+Wed Mar 10 18:55:02 EET 2021:App started
+Wed Mar 10 18:55:47 EET 2021:App started
+Wed Mar 10 18:56:17 EET 2021:App started
+Wed Mar 10 18:58:50 EET 2021:App started
+Wed Mar 10 19:00:02 EET 2021:App started
+Wed Mar 10 19:00:21 EET 2021:App started
+Sat Mar 13 13:55:07 EET 2021:App started
+Sat Mar 13 13:55:57 EET 2021:App started
+Sat Mar 13 13:57:17 EET 2021:App started
+Sat Mar 13 13:58:11 EET 2021:App started
+Sat Mar 13 13:58:45 EET 2021:App started
+Sat Mar 13 13:59:15 EET 2021:App started
+Sat Mar 13 14:01:11 EET 2021:App started
+Sat Mar 13 14:01:44 EET 2021:App started
+Sat Mar 13 14:04:37 EET 2021:App started
+Sat Mar 13 14:04:45 EET 2021:App started
+Sat Mar 13 14:04:59 EET 2021:App started
+Sat Mar 13 14:05:07 EET 2021:App started
+Sat Mar 13 14:05:17 EET 2021:App exited
+Sat Mar 13 14:05:34 EET 2021:App started
+Sat Mar 13 14:10:30 EET 2021:App started
+Sat Mar 13 14:23:55 EET 2021:App started
+Sat Mar 13 14:28:34 EET 2021:App started
+Sat Mar 13 14:30:39 EET 2021:App started
+Sat Mar 13 14:42:56 EET 2021:App started
+Sat Mar 13 14:56:07 EET 2021:App started
+Sat Mar 13 14:59:50 EET 2021:App started
+Sat Mar 13 15:05:20 EET 2021:App started
+Sat Mar 13 15:05:52 EET 2021:App started
+Sat Mar 13 15:06:27 EET 2021:App exited
+Sat Mar 13 15:22:50 EET 2021:App started
+Sat Mar 13 15:25:25 EET 2021:App started
+Sat Mar 13 15:33:07 EET 2021:App started
+Sat Mar 13 15:34:50 EET 2021:App started
+Sat Mar 13 15:42:17 EET 2021:App started
+Sat Mar 13 15:57:42 EET 2021:App started
+Sat Mar 13 15:58:33 EET 2021:App started
+Sat Mar 13 16:02:14 EET 2021:App started
+Sat Mar 13 16:08:21 EET 2021:App started
+Sat Mar 13 16:08:38 EET 2021:Converted AED to BRL
+Sat Mar 13 16:08:41 EET 2021:Copied conversion result to clipboard
+Sat Mar 13 16:17:06 EET 2021:App started
+Sat Mar 13 16:28:31 EET 2021:App started
+Sat Mar 13 16:29:07 EET 2021:Converted AED to BGN (Label[id=resultLabel, styleClass=label]'0.44671311')
+Sat Mar 13 16:29:16 EET 2021:App exited
+Sat Mar 13 16:31:46 EET 2021:App started
+Sat Mar 13 16:32:04 EET 2021:Converted AED to AUD (Label[id=resultLabel, styleClass=label]'0.35118973')
+Sat Mar 13 16:32:13 EET 2021:Exited App
+Sat Mar 13 16:38:14 EET 2021:App started
+Sat Mar 13 16:38:23 EET 2021:Changed theme to: light 
+Sat Mar 13 16:38:24 EET 2021:Changed theme to: dark
+Sat Mar 13 16:39:59 EET 2021:App started
+Sat Mar 13 16:49:09 EET 2021:App started
+Sat Mar 13 16:49:21 EET 2021:Changed Language to: Rom�na
+Sat Mar 13 16:49:24 EET 2021:Changed Language to: English
+Sat Mar 13 16:49:25 EET 2021:Changed Language to: Italiano
+Sat Mar 13 16:49:25 EET 2021:Changed Language to: Espa�ol
+Sat Mar 13 16:49:26 EET 2021:Changed Language to: Deutsch
+Sat Mar 13 16:49:27 EET 2021:Changed Language to: Fran�ais
+Sat Mar 13 16:49:27 EET 2021:Changed Language to: Rom�na
+Sat Mar 13 16:49:27 EET 2021:Changed Language to: English
+Sat Mar 13 16:49:28 EET 2021:Changed Language to: Italiano
+Sat Mar 13 16:49:29 EET 2021:Changed Language to: English
+Sat Mar 13 16:49:29 EET 2021:Changed Language to: Rom�na
+Sat Mar 13 16:49:30 EET 2021:Changed Language to: Fran�ais
+Sat Mar 13 16:49:30 EET 2021:Changed Language to: Deutsch
+Sat Mar 13 16:49:33 EET 2021:Changed Language to: Fran�ais
+Sat Mar 13 16:49:34 EET 2021:Changed Language to: Rom�na
+Sat Mar 13 16:49:34 EET 2021:Changed Language to: English
+Sat Mar 13 16:49:39 EET 2021:App exited
+Sun Mar 14 11:31:38 EET 2021:App started
+Sun Mar 14 11:31:53 EET 2021:Converted AED to BGN (BGN in AED:0.446713)
+Sun Mar 14 11:32:03 EET 2021:Exited App
+Sun Mar 14 11:32:17 EET 2021:App started
+Sun Mar 14 11:32:35 EET 2021:Converted AUD to BGN (BGN in AUD:1.271999)
+Sun Mar 14 11:32:55 EET 2021:App started
+Sun Mar 14 11:33:10 EET 2021:Converted CHF to AED (AED in CHF:3.946765)
+Sun Mar 14 11:47:05 EET 2021:App started
+Sun Mar 14 11:47:19 EET 2021:Changed Language to: Rom�na
+Sun Mar 14 11:47:22 EET 2021:Changed Language to: Fran�ais
+Sun Mar 14 11:47:24 EET 2021:Changed Language to: Rom�na
+Sun Mar 14 11:47:26 EET 2021:Changed Language to: English
+Sun Mar 14 11:47:28 EET 2021:Changed Language to: Italiano
+Sun Mar 14 11:47:29 EET 2021:Changed Language to: Espa�ol
+Sun Mar 14 11:47:29 EET 2021:Changed Language to: Deutsch
+Sun Mar 14 11:47:31 EET 2021:Changed Language to: Fran�ais
+Sun Mar 14 11:47:32 EET 2021:Changed Language to: Rom�na
+Sun Mar 14 11:47:33 EET 2021:Changed Language to: English
+Sun Mar 14 11:47:34 EET 2021:Changed Language to: Italiano
+Sun Mar 14 11:47:35 EET 2021:Changed Language to: Espa�ol
+Sun Mar 14 11:47:36 EET 2021:Changed Language to: Deutsch
+Sun Mar 14 11:47:37 EET 2021:Changed Language to: Fran�ais
+Sun Mar 14 11:47:39 EET 2021:Changed Language to: Rom�na
+Sun Mar 14 11:47:40 EET 2021:Changed Language to: English
+Sun Mar 14 11:47:42 EET 2021:App exited
+Sun Mar 14 11:47:58 EET 2021:App started
+Sun Mar 14 11:48:35 EET 2021:Went back to main window from transform window
+Sun Mar 14 11:49:01 EET 2021:Changed theme to: light 
+Sun Mar 14 11:49:03 EET 2021:Changed theme to: dark
+Sun Mar 14 12:37:50 EET 2021:Changed theme to: dark
+Sun Mar 14 12:37:59 EET 2021:App exited
+Wed Mar 17 19:18:20 EET 2021:App started
+Wed Mar 17 19:19:27 EET 2021:App started
+Wed Mar 17 19:21:07 EET 2021:App started
+Wed Mar 17 19:21:26 EET 2021:App started
+Wed Mar 17 19:30:02 EET 2021:App started
+Wed Mar 17 19:30:27 EET 2021:Changed Language to: Français
+Wed Mar 17 19:30:28 EET 2021:Changed Language to: Româna
+Wed Mar 17 19:30:28 EET 2021:Changed Language to: English
+Wed Mar 17 19:38:30 EET 2021:Converted THB to JPY (JPY in THB:3.542857)
+Wed Mar 17 19:45:29 EET 2021:Went back to main window from transform window
+Wed Mar 17 19:46:22 EET 2021:Exited App
+Thu Mar 18 18:53:13 EET 2021:App started
+Thu Mar 18 18:53:44 EET 2021:App started
+Thu Mar 18 18:58:32 EET 2021:App started
+Thu Mar 18 19:01:30 EET 2021:App started
+Thu Mar 18 19:02:54 EET 2021:App started
+Thu Mar 18 19:03:11 EET 2021:Exited App
+Thu Mar 18 19:03:15 EET 2021:App started
+Thu Mar 18 19:09:04 EET 2021:App started
+Thu Mar 18 19:09:28 EET 2021:Exited App
+Thu Mar 18 19:37:24 EET 2021:App started
+Thu Mar 18 19:37:36 EET 2021:Changed Language to: Español
+Thu Mar 18 19:37:39 EET 2021:Changed Language to: Italiano
+Thu Mar 18 19:37:40 EET 2021:Changed Language to: English
+Thu Mar 18 19:38:43 EET 2021:App exited
+Thu Mar 18 19:40:40 EET 2021:App started
+Thu Mar 18 19:40:53 EET 2021:Converted AED               4.4206 to AUD               0.645 (1)
+Thu Mar 18 19:40:59 EET 2021:Converted AUD               0.645 to BRL               0.2783 (1)
+Thu Mar 18 19:41:03 EET 2021:Converted BGN               0.2002 to CAD               0.0564 (1)
+Thu Mar 18 19:41:04 EET 2021:Converted BGN               0.2002 to CAD               0.0564 (1)
+Thu Mar 18 19:41:07 EET 2021:Converted EUR               0.037538999999999996 to CZK               0.1329 (1)
+Thu Mar 18 19:41:07 EET 2021:Converted EUR               0.037538999999999996 to CZK               0.1329 (1)
+Thu Mar 18 19:41:08 EET 2021:Converted EUR               0.037538999999999996 to CZK               0.1329 (1)
+Thu Mar 18 19:41:08 EET 2021:Converted EUR               0.037538999999999996 to CZK               0.1329 (1)
+Thu Mar 18 19:41:08 EET 2021:Converted EUR               0.037538999999999996 to CZK               0.1329 (1)
+Thu Mar 18 19:41:14 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:15 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:15 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:15 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:15 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:15 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:15 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:16 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:16 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:16 EET 2021:Converted AED               4.4206 to AED               4.4206 (1)
+Thu Mar 18 19:41:19 EET 2021:Converted CZK               0.1329 to EGP               0.0036420000000000003 (1)
+Thu Mar 18 19:41:19 EET 2021:Converted CZK               0.1329 to EGP               0.0036420000000000003 (1)
+Thu Mar 18 19:41:19 EET 2021:Converted CZK               0.1329 to EGP               0.0036420000000000003 (1)
+Thu Mar 18 19:41:19 EET 2021:Converted CZK               0.1329 to EGP               0.0036420000000000003 (1)
+Thu Mar 18 19:41:20 EET 2021:Converted CZK               0.1329 to EGP               0.0036420000000000003 (1)
+Thu Mar 18 19:41:46 EET 2021:App exited
+Thu Mar 18 19:41:57 EET 2021:App started
+Thu Mar 18 19:42:11 EET 2021:Converted BGN               0.2002 to CAD               0.0564 (0.757296)
+Thu Mar 18 19:42:13 EET 2021:Converted CAD               0.0564 to CHF               228.267 (0.746482)
+Thu Mar 18 19:42:16 EET 2021:Exited App
+Thu Mar 18 19:44:22 EET 2021:App started
+Thu Mar 18 19:45:16 EET 2021:App started
+Thu Mar 18 19:46:38 EET 2021:App exited
+Thu Mar 18 19:47:46 EET 2021:App started
+Thu Mar 18 19:50:23 EET 2021:App started
+Thu Mar 18 19:50:49 EET 2021:App exited
+Thu Mar 18 19:51:51 EET 2021:App started
+Thu Mar 18 19:52:12 EET 2021:App exited
+Thu Mar 18 19:53:01 EET 2021:App started
+Thu Mar 18 19:53:18 EET 2021:Exited App
+Thu Mar 18 20:03:20 EET 2021:App started
+Thu Mar 18 20:03:43 EET 2021:Exited App
+Thu Mar 18 20:05:30 EET 2021:App started
+Thu Mar 18 20:05:43 EET 2021:Exited App
+Thu Mar 18 20:06:54 EET 2021:App started
+Thu Mar 18 20:07:11 EET 2021:App exited
+Thu Mar 18 20:08:01 EET 2021:App started
+Thu Mar 18 20:08:16 EET 2021:Exited App
+Thu Mar 18 20:12:41 EET 2021:App started
+Fri Mar 19 15:02:54 EET 2021:App started
+Fri Mar 19 15:03:15 EET 2021:Exited App
+Sun Mar 21 14:39:46 EET 2021:App started
+Sun Mar 21 14:40:19 EET 2021:App exited
+Sun Mar 21 14:40:21 EET 2021:App started
+Sun Mar 21 14:40:46 EET 2021:App started
+Sun Mar 21 14:41:38 EET 2021:Converted AED to AED (1)
+Sun Mar 21 14:41:41 EET 2021:Exited App
+Sun Mar 21 14:53:44 EET 2021:App started
+Sun Mar 21 14:54:11 EET 2021:App exited
+Sun Mar 21 15:02:59 EET 2021:App started
+Sun Mar 21 15:03:48 EET 2021:Exited App
+Sun Mar 21 15:04:26 EET 2021:App started
+Sun Mar 21 15:05:28 EET 2021:App started
+Sun Mar 21 15:05:55 EET 2021:App exited
+Sun Mar 21 15:06:56 EET 2021:App started
+Sun Mar 21 15:07:12 EET 2021:App started
+Sun Mar 21 15:07:39 EET 2021:Exited App
+Sun Mar 21 15:14:45 EET 2021:App started
+Sun Mar 21 15:15:16 EET 2021:App exited
+Sun Mar 21 15:16:29 EET 2021:App started
+Sun Mar 21 15:16:48 EET 2021:App started
+Sun Mar 21 15:17:51 EET 2021:App started
+Sun Mar 21 15:25:54 EET 2021:App started
+Sun Mar 21 15:29:07 EET 2021:App exited
+Sun Mar 21 15:30:24 EET 2021:App started
+Sun Mar 21 15:30:48 EET 2021:Exited App
+Sun Mar 21 15:31:10 EET 2021:App started
+Sun Mar 21 15:31:35 EET 2021:Exited App
+Sun Mar 21 15:32:07 EET 2021:App started
+Sun Mar 21 15:33:32 EET 2021:Converted AED to AUD (1)
+Sun Mar 21 15:41:33 EET 2021:Exited App
+Sun Mar 21 15:47:45 EET 2021:App started
+Sun Mar 21 15:48:07 EET 2021:Converted AED to AUD (1)
+Sun Mar 21 15:48:10 EET 2021:Exited App
+Sun Mar 21 15:51:20 EET 2021:App started
+Sun Mar 21 15:51:38 EET 2021:App started
+Sun Mar 21 15:51:58 EET 2021:App started
+Sun Mar 21 15:52:08 EET 2021:App exited
+Sun Mar 21 15:57:30 EET 2021:App started
+Sun Mar 21 15:57:54 EET 2021:App started
+Sun Mar 21 15:58:10 EET 2021:Converted AED to AUD (0.351076)
+Sun Mar 21 15:58:18 EET 2021:Converted AED to AUD (3.510755)
+Sun Mar 21 15:58:23 EET 2021:Exited App
+Sun Mar 21 16:00:40 EET 2021:App started
+Sun Mar 21 16:05:13 EET 2021:Exited App
+Sun Mar 21 16:55:47 EET 2021:App started
+Sun Mar 21 16:56:32 EET 2021:App started
+Sun Mar 21 16:59:33 EET 2021:Exited App
+Sun Mar 21 17:00:03 EET 2021:App started
+Sun Mar 21 17:00:14 EET 2021:Exited App
+Sun Mar 21 17:02:14 EET 2021:App started
+Sun Mar 21 17:02:50 EET 2021:App started
+Sun Mar 21 17:03:38 EET 2021:Exited App
+Sun Mar 21 17:07:14 EET 2021:App started
+Sun Mar 21 17:07:32 EET 2021:Exited App
+Sun Mar 21 17:12:20 EET 2021:App started
+Sun Mar 21 17:12:34 EET 2021:Exited App
+Sun Mar 21 17:12:51 EET 2021:App started
+Sun Mar 21 17:13:08 EET 2021:Exited App
+Sun Mar 21 17:13:58 EET 2021:App started
+Sun Mar 21 17:14:23 EET 2021:Exited App
+Sun Mar 21 17:17:05 EET 2021:App started
+Sun Mar 21 17:17:32 EET 2021:Exited App
+Sun Mar 21 17:32:46 EET 2021:App started
+Sun Mar 21 17:32:54 EET 2021:App exited
+Mon Mar 22 12:58:35 EET 2021:App started
+Mon Mar 22 12:59:01 EET 2021:Exited App
+Mon Mar 22 12:59:04 EET 2021:App started
+Mon Mar 22 12:59:34 EET 2021:Converted AED to AUD (0.351076)
+Mon Mar 22 12:59:50 EET 2021:Converted EUR to USD (59.485718)
+Mon Mar 22 13:00:43 EET 2021:Went back to main window from transform window
+Mon Mar 22 13:01:12 EET 2021:Changed theme to: light 
+Mon Mar 22 13:01:13 EET 2021:Changed theme to: dark
+Mon Mar 22 13:01:17 EET 2021:Changed Language to: Româna
+Mon Mar 22 13:01:22 EET 2021:Changed Language to: Français
+Mon Mar 22 13:01:24 EET 2021:Changed Language to: Deutsch
+Mon Mar 22 13:01:26 EET 2021:Changed Language to: Español
+Mon Mar 22 13:01:28 EET 2021:Changed Language to: Italiano
+Mon Mar 22 13:01:30 EET 2021:Changed Language to: English
+Mon Mar 22 13:01:43 EET 2021:Changed Language to: Româna
+Mon Mar 22 13:01:45 EET 2021:Changed Language to: Français
+Mon Mar 22 13:01:45 EET 2021:Changed Language to: Deutsch
+Mon Mar 22 13:01:46 EET 2021:Changed Language to: Español
+Mon Mar 22 13:01:47 EET 2021:Changed Language to: Italiano
+Mon Mar 22 13:01:50 EET 2021:Changed Language to: English
+Mon Mar 22 13:01:57 EET 2021:App exited
+Mon Mar 22 13:02:58 EET 2021:App started
+Mon Mar 22 13:04:00 EET 2021:App exited
+Wed Mar 24 19:19:22 EET 2021:App started
+Wed Mar 24 19:26:50 EET 2021:Converted AUD to EUR (6439.880538)
+Wed Mar 24 19:28:37 EET 2021:Copied conversion result to clipboard
+Wed Mar 24 19:28:38 EET 2021:Copied conversion result to clipboard
+Wed Mar 24 19:30:30 EET 2021:Copied conversion result to clipboard
+Wed Mar 24 19:30:30 EET 2021:Copied conversion result to clipboard
+Wed Mar 24 19:30:31 EET 2021:Copied conversion result to clipboard
+Wed Mar 24 19:33:47 EET 2021:Copied conversion result to clipboard
+Wed Mar 24 19:38:23 EET 2021:App exited
+Wed Apr 07 13:58:46 EEST 2021:App started
+Wed Apr 07 14:00:41 EEST 2021:App started
+Thu Apr 15 09:47:34 EEST 2021:App started
+Thu Apr 15 09:49:25 EEST 2021:App started
+Thu Apr 15 09:56:37 EEST 2021:App started
+Thu Apr 15 09:57:01 EEST 2021:Went back to main window from transform window
+Thu Apr 15 09:57:03 EEST 2021:Went back to main window from transform window
+Thu Apr 15 09:57:10 EEST 2021:App started
+Thu Apr 15 09:57:10 EEST 2021:Went back to main window from transform window
+Thu Apr 15 12:34:39 EEST 2021:App started
+Thu Apr 15 12:35:08 EEST 2021:Went back to main window from transform window
+Thu Apr 15 12:35:12 EEST 2021:Went back to main window from transform window
+Thu Apr 15 12:35:14 EEST 2021:Went back to main window from transform window
+Thu Apr 15 12:35:16 EEST 2021:Went back to main window from transform window
+Thu Apr 15 12:35:17 EEST 2021:Went back to main window from transform window
+Thu Apr 15 12:36:13 EEST 2021:App started
+Thu Apr 15 12:36:25 EEST 2021:Exited App
+Thu Apr 15 12:37:49 EEST 2021:App started
+Thu Apr 15 12:38:15 EEST 2021:Exited App
+Thu Apr 15 12:43:07 EEST 2021:App started
+Thu Apr 15 12:45:19 EEST 2021:App started
+Thu Apr 15 12:46:27 EEST 2021:App started
+Thu Apr 15 12:48:29 EEST 2021:App started
+Thu Apr 15 12:49:19 EEST 2021:Exited App
+Thu Apr 15 12:49:58 EEST 2021:App started
+Thu Apr 15 12:50:52 EEST 2021:App started
+Thu Apr 15 12:51:35 EEST 2021:Exited App
+Thu Apr 15 13:30:38 EEST 2021:App started
+Thu Apr 15 13:31:33 EEST 2021:Exited App
+Thu Apr 15 13:35:11 EEST 2021:App started
+Thu Apr 15 13:36:56 EEST 2021:App started
+Thu Apr 15 13:37:49 EEST 2021:App started
+Thu Apr 15 13:38:28 EEST 2021:Exited App
+Thu Apr 15 13:45:54 EEST 2021:App started
+Thu Apr 15 13:46:34 EEST 2021:App exited
+Thu Apr 15 14:02:54 EEST 2021:App started
+Thu Apr 15 14:03:14 EEST 2021:Went back to main window from transform window
+Thu Apr 15 14:03:17 EEST 2021:Changed theme to: light 
+Thu Apr 15 14:03:34 EEST 2021:App exited
+Thu Apr 15 14:08:25 EEST 2021:App started
+Thu Apr 15 14:08:47 EEST 2021:Exited App
+Thu Apr 15 20:09:45 EEST 2021:App started
+Thu Apr 15 20:10:11 EEST 2021:Converted AED to AUD (35.123176)
+Thu Apr 15 20:15:25 EEST 2021:Exited App
+Thu Apr 15 20:15:34 EEST 2021:App started
+Thu Apr 15 20:16:26 EEST 2021:App started
+Mon Apr 19 12:01:01 EEST 2021:App started
+Mon Apr 19 12:01:34 EEST 2021:Exited App
+Mon Apr 19 12:03:09 EEST 2021:App started
+Mon Apr 19 12:03:29 EEST 2021:App exited
+Mon Apr 19 12:04:28 EEST 2021:App started
+Mon Apr 19 12:05:23 EEST 2021:App started
+Mon Apr 19 12:05:45 EEST 2021:App exited
+Mon Apr 19 12:07:15 EEST 2021:App started
+Wed Apr 21 19:54:33 EEST 2021:App started
+Wed Apr 21 19:55:00 EEST 2021:Changed theme to: dark
+Wed Apr 21 19:55:00 EEST 2021:Changed theme to: light 
+Wed Apr 21 19:55:01 EEST 2021:Changed theme to: dark
+Wed Apr 21 19:55:02 EEST 2021:Changed theme to: light 
+Wed Apr 21 19:55:02 EEST 2021:Changed theme to: dark
+Wed Apr 21 19:55:03 EEST 2021:Changed theme to: light 
+Wed Apr 21 19:55:06 EEST 2021:Changed theme to: light 
+Wed Apr 21 19:55:07 EEST 2021:Changed theme to: dark
+Wed Apr 21 19:55:12 EEST 2021:Changed Language to: Româna
+Wed Apr 21 19:55:12 EEST 2021:Changed Language to: Français
+Wed Apr 21 19:55:33 EEST 2021:Changed Language to: Româna
+Wed Apr 21 19:55:33 EEST 2021:Changed Language to: English
+Wed Apr 21 19:57:16 EEST 2021:Converted AUD to CAD (9718.556258)
+Wed Apr 21 19:59:35 EEST 2021:Exited App
+Thu Apr 22 13:18:53 EEST 2021:App started
+Thu Apr 22 13:28:29 EEST 2021:App started
+Thu Apr 22 13:29:14 EEST 2021:App started
+Thu Apr 22 13:30:10 EEST 2021:App started
+Thu Apr 22 13:35:40 EEST 2021:App started
+Thu Apr 22 13:38:08 EEST 2021:App started
+Thu Apr 22 13:38:40 EEST 2021:App started
+Thu Apr 22 13:39:31 EEST 2021:Exited App
+Thu Apr 22 13:40:11 EEST 2021:App started
+Thu Apr 22 13:41:43 EEST 2021:App started
+Thu Apr 22 13:42:04 EEST 2021:Exited App
+Thu Apr 22 13:47:13 EEST 2021:App started
+Thu Apr 22 13:49:29 EEST 2021:Exited App
+Thu Apr 22 13:50:19 EEST 2021:App started
+Thu Apr 22 13:50:51 EEST 2021:Exited App
+Thu Apr 22 13:52:10 EEST 2021:App started
+Thu Apr 22 13:53:16 EEST 2021:App started
+Thu Apr 22 13:53:39 EEST 2021:Exited App
+Thu Apr 22 13:54:33 EEST 2021:App started
+Thu Apr 22 13:55:15 EEST 2021:App exited
+Thu Apr 22 13:57:41 EEST 2021:App started
+Thu Apr 22 13:58:25 EEST 2021:Exited App
+Thu Apr 22 13:59:04 EEST 2021:App started
+Thu Apr 22 14:03:53 EEST 2021:App started
+Thu Apr 22 14:04:31 EEST 2021:App exited
+Wed Apr 28 20:21:52 EEST 2021:App started
+Sun May 23 14:17:54 EEST 2021:App started
+Sun May 23 14:19:18 EEST 2021:App started
+Sun May 23 14:20:01 EEST 2021:Exited App
+Sun May 23 14:22:23 EEST 2021:App started
+Sun May 23 14:32:24 EEST 2021:App started
+Sun May 23 14:32:50 EEST 2021:App started
+Sun May 23 14:33:28 EEST 2021:Exited App
+Sun May 23 14:34:47 EEST 2021:App started
+Sun May 23 14:35:26 EEST 2021:App exited
+Sun May 23 14:36:08 EEST 2021:App started
+Sun May 23 14:37:38 EEST 2021:App started
+Sun May 23 14:38:19 EEST 2021:Exited App
+Sun May 23 14:38:48 EEST 2021:App started
+Sun May 23 14:39:08 EEST 2021:App exited
+Sun May 23 14:40:08 EEST 2021:App started
+Sun May 23 14:41:59 EEST 2021:App started
+Sun May 23 14:42:27 EEST 2021:Exited App
+Sun May 23 14:44:05 EEST 2021:App started
+Sun May 23 14:44:50 EEST 2021:App started
+Sun May 23 14:45:10 EEST 2021:App started
+Sun May 23 14:50:03 EEST 2021:App started
+Sun May 23 14:52:12 EEST 2021:App started
+Sun May 23 14:52:24 EEST 2021:App exited
+Sun May 23 14:52:28 EEST 2021:App started
+Sun May 23 14:55:10 EEST 2021:App started
+Sun May 23 14:55:38 EEST 2021:Went back to main window from transform window
+Sun May 23 14:55:50 EEST 2021:Exited App
+Sun May 23 14:56:52 EEST 2021:App started
+Sun May 23 14:57:06 EEST 2021:Went back to main window from transform window
+Sun May 23 14:57:09 EEST 2021:Went back to main window from transform window
+Sun May 23 14:57:12 EEST 2021:Went back to main window from transform window
+Sun May 23 14:57:14 EEST 2021:Went back to main window from transform window
+Sun May 23 14:57:18 EEST 2021:App exited
+Wed May 26 14:29:13 EEST 2021:App started
+Wed May 26 14:29:22 EEST 2021:Went back to main window from transform window
+Wed May 26 14:29:24 EEST 2021:Changed theme to: dark
+Wed May 26 14:29:25 EEST 2021:Changed theme to: light 
+Wed May 26 14:29:26 EEST 2021:Changed theme to: dark
+Wed May 26 14:29:26 EEST 2021:Changed theme to: light 
+Wed May 26 14:29:26 EEST 2021:Changed theme to: dark
+Wed May 26 14:29:27 EEST 2021:Changed theme to: light 
+Wed May 26 14:29:27 EEST 2021:Changed theme to: dark
+Wed May 26 14:29:27 EEST 2021:Changed theme to: light 
+Wed May 26 14:29:29 EEST 2021:Changed theme to: dark
+Wed May 26 14:29:31 EEST 2021:App exited
+Wed May 26 19:24:49 EEST 2021:App started
+Wed May 26 19:25:35 EEST 2021:Went back to main window from transform window
+Wed May 26 19:26:11 EEST 2021:Went back to main window from transform window
+Wed May 26 19:26:19 EEST 2021:Went back to main window from transform window
+Wed May 26 19:26:23 EEST 2021:Went back to main window from transform window
+Wed May 26 19:27:01 EEST 2021:App exited
+Wed Jun 09 18:10:07 EEST 2021:App started
+Wed Jun 09 18:11:33 EEST 2021:Changed theme to: light 
+Wed Jun 09 18:11:33 EEST 2021:Changed theme to: dark
+Wed Jun 09 18:11:34 EEST 2021:Changed theme to: light 
+Wed Jun 09 18:11:34 EEST 2021:Changed theme to: dark
+Wed Jun 09 18:11:35 EEST 2021:Changed theme to: light 
+Wed Jun 09 18:11:35 EEST 2021:Changed theme to: dark
+Wed Jun 09 18:11:35 EEST 2021:Changed theme to: light 
+Wed Jun 09 18:11:36 EEST 2021:Changed theme to: dark
+Wed Jun 09 18:11:36 EEST 2021:Changed theme to: light 
+Wed Jun 09 18:11:36 EEST 2021:Changed theme to: dark
+Wed Jun 09 18:34:16 EEST 2021:App started
+Wed Jun 09 18:34:16 EEST 2021:Logs file created
+Wed Jun 09 18:34:16 EEST 2021:App started
+Wed Jun 09 18:35:45 EEST 2021:App started
+Wed Jun 09 18:35:45 EEST 2021:App started
+Wed Jun 09 18:41:40 EEST 2021:App started
+Wed Jun 09 18:41:40 EEST 2021:App started
+Wed Jun 09 18:52:19 EEST 2021:App started
+Wed Jun 09 18:52:19 EEST 2021:App started
+Wed Jun 09 18:53:01 EEST 2021:App started
+Wed Jun 09 18:53:01 EEST 2021:App started
+Wed Jun 09 18:53:30 EEST 2021:App exited
+Wed Jun 09 18:54:27 EEST 2021:App started
+Wed Jun 09 18:54:27 EEST 2021:App started
+Wed Jun 09 18:57:45 EEST 2021:App started
+Wed Jun 09 18:57:45 EEST 2021:App started
+Wed Jun 09 18:58:48 EEST 2021:App started
+Wed Jun 09 18:58:48 EEST 2021:App started
+Wed Jun 09 19:00:07 EEST 2021:App started
+Wed Jun 09 19:00:07 EEST 2021:App started
+Wed Jun 09 19:01:23 EEST 2021:App started
+Wed Jun 09 19:01:23 EEST 2021:App started
+Wed Jun 09 19:01:31 EEST 2021:Exited App
+Wed Jun 09 19:03:02 EEST 2021:App started
+Wed Jun 09 19:03:02 EEST 2021:App started
+Wed Jun 09 19:14:17 EEST 2021:App started
+Wed Jun 09 19:14:17 EEST 2021:App started
+Wed Jun 09 19:25:28 EEST 2021:App started
+Wed Jun 09 19:25:28 EEST 2021:App started
+Wed Jun 09 19:26:17 EEST 2021:App started
+Wed Jun 09 19:26:17 EEST 2021:App started
+Wed Jun 16 20:38:26 EEST 2021:App started
+Wed Jun 16 20:38:26 EEST 2021:App started
+Wed Jun 23 18:28:38 EEST 2021:App started
+Wed Jun 23 18:28:38 EEST 2021:App started
+Wed Jun 23 18:28:47 EEST 2021:Changed theme to: light 
+Wed Jun 23 18:28:50 EEST 2021:Changed theme to: dark
+Wed Jun 23 18:28:51 EEST 2021:Changed theme to: light 
+Wed Jun 23 18:28:52 EEST 2021:Changed theme to: dark
+Wed Jun 23 18:28:53 EEST 2021:Changed theme to: light 
+Wed Jun 23 18:28:54 EEST 2021:Changed theme to: dark
+Wed Jun 23 18:28:54 EEST 2021:Changed theme to: light 
+Wed Jun 23 18:28:54 EEST 2021:Changed theme to: dark
+Wed Jun 23 18:29:00 EEST 2021:Changed theme to: light 
+Wed Jun 23 18:29:02 EEST 2021:Changed theme to: dark
+Wed Jun 23 18:29:03 EEST 2021:Changed theme to: light 
+Wed Jun 23 18:29:06 EEST 2021:Changed theme to: dark
+Wed Jun 23 18:29:08 EEST 2021:Changed Language to: Româna
+Wed Jun 23 18:29:09 EEST 2021:Changed Language to: Français
+Wed Jun 23 18:29:10 EEST 2021:Changed Language to: Deutsch
+Wed Jun 23 18:29:11 EEST 2021:Changed Language to: Español
+Wed Jun 23 18:29:11 EEST 2021:Changed Language to: Italiano
+Wed Jun 23 18:29:12 EEST 2021:Changed Language to: English
+Wed Jun 23 18:29:15 EEST 2021:App exited
+Wed Jun 23 18:35:59 EEST 2021:App started
+Wed Jun 23 18:35:59 EEST 2021:App started
+Wed Jun 23 18:36:08 EEST 2021:Changed theme to: light 
+Wed Jun 23 18:36:09 EEST 2021:Changed theme to: dark
+Wed Jun 23 18:36:12 EEST 2021:App exited
+Wed Jun 30 19:46:41 EEST 2021:App started
+Wed Jun 30 19:46:41 EEST 2021:App started
+Wed Jun 30 19:47:42 EEST 2021:App started
+Wed Jun 30 19:47:42 EEST 2021:App started
+Wed Jun 30 19:48:35 EEST 2021:Converted AUD to CAD (9308.75438)
+Wed Jun 30 19:48:46 EEST 2021:Went back to main window from transform window
+Wed Jun 30 19:49:48 EEST 2021:Went back to main window from transform window
+Wed Jun 30 19:49:53 EEST 2021:Went back to main window from transform window
+Wed Jun 30 19:49:54 EEST 2021:Went back to main window from transform window
+Wed Jun 30 19:50:01 EEST 2021:Went back to main window from transform window
+Wed Jun 30 19:50:08 EEST 2021:Changed theme to: light 
+Wed Jun 30 19:50:09 EEST 2021:Changed theme to: dark
+Wed Jun 30 19:50:13 EEST 2021:Changed theme to: light 
+Wed Jun 30 19:50:17 EEST 2021:Changed theme to: dark
+Wed Jun 30 19:50:20 EEST 2021:Changed Language to: Româna
+Wed Jun 30 19:50:26 EEST 2021:Changed Language to: Français
+Wed Jun 30 19:50:27 EEST 2021:Changed Language to: Deutsch
+Wed Jun 30 19:50:28 EEST 2021:Changed Language to: Español
+Wed Jun 30 19:50:28 EEST 2021:Changed Language to: Deutsch
+Wed Jun 30 19:50:29 EEST 2021:Changed Language to: Français
+Wed Jun 30 19:50:30 EEST 2021:Changed Language to: Deutsch
+Wed Jun 30 19:50:31 EEST 2021:Changed Language to: Español
+Wed Jun 30 19:50:34 EEST 2021:Changed Language to: Italiano
+Wed Jun 30 19:50:35 EEST 2021:Changed Language to: English
+Wed Jun 30 19:57:44 EEST 2021:Went back to main window from transform window
+Wed Jul 07 19:16:11 EEST 2021:App started
+Wed Jul 07 19:16:11 EEST 2021:App started
+Wed Jul 07 19:18:55 EEST 2021:Converted DKK to CNY (1028243327126.0088)
+Wed Jul 07 19:18:59 EEST 2021:Went back to main window from transform window
+Wed Jul 07 19:19:03 EEST 2021:Went back to main window from transform window
+Wed Jul 07 19:20:28 EEST 2021:Changed Language to: Româna
+Wed Jul 07 19:20:28 EEST 2021:Changed Language to: Français
+Wed Jul 07 19:20:29 EEST 2021:Changed Language to: Deutsch
+Wed Jul 07 19:20:30 EEST 2021:Changed Language to: Español
+Wed Jul 07 19:20:30 EEST 2021:Changed Language to: Italiano
+Wed Jul 07 19:20:31 EEST 2021:Changed Language to: English
+Wed Jul 07 19:20:33 EEST 2021:Changed Language to: Italiano
+Wed Jul 07 19:20:38 EEST 2021:Changed Language to: English
+Wed Jul 07 19:42:01 EEST 2021:App started
+Wed Jul 07 19:42:01 EEST 2021:App started
+Wed Jul 07 19:43:11 EEST 2021:Converted AUD to CAD (935.063771)
+Wed Jul 07 19:43:29 EEST 2021:Converted AUD to JPY (83224.777349)
+Wed Jul 07 19:43:48 EEST 2021:Went back to main window from transform window
+Wed Jul 07 19:46:22 EEST 2021:Changed theme to: light 
+Wed Jul 07 19:46:33 EEST 2021:Changed Language to: Româna
+Wed Jul 07 19:46:34 EEST 2021:Changed Language to: Français
+Wed Jul 07 19:46:35 EEST 2021:Changed Language to: Deutsch
+Wed Jul 07 19:46:37 EEST 2021:Changed Language to: Français
+Wed Jul 07 19:46:37 EEST 2021:Changed Language to: Româna
+Wed Jul 07 19:46:38 EEST 2021:Changed Language to: English
+Wed Jul 07 19:46:41 EEST 2021:Changed Language to: Româna
+Wed Jul 07 19:47:00 EEST 2021:Changed Language to: Français
+Wed Jul 07 19:47:02 EEST 2021:Changed Language to: Deutsch
+Wed Jul 07 19:47:07 EEST 2021:Changed Language to: Español
+Wed Jul 07 19:47:10 EEST 2021:Changed Language to: Italiano
+Wed Jul 07 19:47:14 EEST 2021:Changed Language to: English
+Wed Jul 07 19:50:51 EEST 2021:App exited
+Wed Jul 21 19:26:41 EEST 2021:App started
+Wed Jul 21 19:26:41 EEST 2021:App started
+Wed Jul 21 19:36:15 EEST 2021:Went back to main window from transform window
+Wed Jul 21 19:36:56 EEST 2021:Went back to main window from transform window
+Wed Jul 21 19:37:07 EEST 2021:Changed theme to: dark
+Wed Jul 21 19:37:07 EEST 2021:Changed theme to: light 
+Wed Jul 21 19:37:14 EEST 2021:Changed theme to: dark
+Wed Jul 21 19:37:16 EEST 2021:Changed theme to: light 
+Wed Jul 21 19:37:16 EEST 2021:Changed theme to: light 
+Wed Jul 21 19:37:17 EEST 2021:Changed theme to: light 
+Wed Jul 21 19:37:17 EEST 2021:Changed theme to: dark
+Wed Jul 21 19:37:17 EEST 2021:Changed theme to: light 
+Wed Jul 21 19:37:18 EEST 2021:Changed theme to: light 
+Wed Jul 21 19:37:18 EEST 2021:Changed theme to: dark
+Wed Jul 21 19:37:22 EEST 2021:Changed Language to: Româna
+Wed Jul 21 19:37:26 EEST 2021:Changed Language to: Français
+Wed Jul 21 19:37:28 EEST 2021:Changed Language to: Deutsch
+Wed Jul 21 19:37:30 EEST 2021:Changed Language to: Español
+Wed Jul 21 19:37:31 EEST 2021:Changed Language to: Italiano
+Wed Jul 21 19:37:32 EEST 2021:Changed Language to: English
+Thu Sep 16 11:15:38 EEST 2021:App started
+Thu Sep 16 11:15:38 EEST 2021:App started
+Thu Sep 16 11:16:15 EEST 2021:Went back to main window from transform window
+Thu Sep 16 11:16:18 EEST 2021:App exited
+Thu Sep 16 11:21:21 EEST 2021:App started
+Thu Sep 16 11:21:21 EEST 2021:App started
+Thu Sep 16 11:27:50 EEST 2021:App started
+Thu Sep 16 11:27:50 EEST 2021:App started
+Thu Sep 16 11:38:44 EEST 2021:Exited App
+Thu Sep 16 11:49:35 EEST 2021:App started
+Thu Sep 16 11:49:35 EEST 2021:App started
+Thu Sep 16 11:53:03 EEST 2021:Exited App
+Thu Sep 16 11:54:10 EEST 2021:App started
+Thu Sep 16 11:54:10 EEST 2021:App started
+Thu Sep 16 11:54:35 EEST 2021:Went back to main window from transform window
+Thu Sep 16 11:54:45 EEST 2021:Changed theme to: light 
+Thu Sep 16 11:54:46 EEST 2021:Changed theme to: dark
+Thu Sep 16 11:55:03 EEST 2021:Changed Language to: Româna
+Thu Sep 16 11:55:05 EEST 2021:Changed Language to: Français
+Thu Sep 16 11:55:06 EEST 2021:Changed Language to: Deutsch
+Thu Sep 16 11:55:07 EEST 2021:Changed theme to: light 
+Thu Sep 16 11:55:10 EEST 2021:Changed theme to: dark
+Thu Sep 16 11:55:11 EEST 2021:Changed Language to: Français
+Thu Sep 16 11:55:12 EEST 2021:Changed Language to: Româna
+Thu Sep 16 11:55:13 EEST 2021:Changed Language to: English
+Thu Sep 16 11:55:14 EEST 2021:App exited
+Thu Sep 16 23:32:33 EEST 2021:App started
+Thu Sep 16 23:32:55 EEST 2021:Converted AED to AUD (3721.588138)
+Thu Sep 16 23:32:58 EEST 2021:Went back to main window from transform window
+Thu Sep 16 23:33:11 EEST 2021:Went back to main window from transform window
+Thu Sep 16 23:33:13 EEST 2021:Went back to main window from transform window
+Thu Sep 16 23:33:17 EEST 2021:Changed theme to: light 
+Thu Sep 16 23:33:18 EEST 2021:Changed theme to: dark
+Thu Sep 16 23:33:18 EEST 2021:Changed theme to: light 
+Thu Sep 16 23:33:19 EEST 2021:Changed theme to: dark
+Thu Sep 16 23:33:21 EEST 2021:Changed theme to: light 
+Thu Sep 16 23:33:24 EEST 2021:Changed theme to: dark
+Thu Sep 16 23:33:26 EEST 2021:Changed Language to: Româna
+Thu Sep 16 23:33:26 EEST 2021:Changed Language to: Français
+Thu Sep 16 23:33:27 EEST 2021:Changed Language to: Deutsch
+Thu Sep 16 23:33:30 EEST 2021:Changed Language to: Español
+Thu Sep 16 23:33:31 EEST 2021:Changed Language to: Italiano
+Thu Sep 16 23:33:32 EEST 2021:Changed Language to: English
+Thu Sep 16 23:34:42 EEST 2021:Exited App
+Wed Sep 22 19:56:18 EEST 2021:App started
+Wed Sep 22 20:05:16 EEST 2021:Went back to main window from transform window
+Wed Sep 22 20:05:31 EEST 2021:App exited
+Tue Oct 12 14:16:03 EEST 2021:App started
+Sat Oct 16 13:06:18 EEST 2021:App started
+Sat Oct 16 13:44:40 EEST 2021:App started
+Sat Oct 16 13:44:59 EEST 2021:App exited
+Sat Oct 16 14:01:39 EEST 2021:App started
+Sat Oct 16 14:01:57 EEST 2021:Exited App
+Sat Oct 16 14:25:13 EEST 2021:App started
+Sat Oct 16 14:26:10 EEST 2021:App started
+Sat Oct 16 14:27:57 EEST 2021:App started
+Sat Oct 16 14:28:28 EEST 2021:App started
+Sat Oct 16 14:28:40 EEST 2021:App started
+Sat Oct 16 14:29:24 EEST 2021:App started
+Sat Oct 16 14:33:29 EEST 2021:App started
+Sat Oct 16 14:40:36 EEST 2021:Exited App
+Sat Oct 16 15:57:53 EEST 2021:App started
+Sat Oct 16 15:58:44 EEST 2021:Exited App
+Wed Oct 20 19:33:46 EEST 2021:App started
+Wed Oct 20 19:34:35 EEST 2021:Went back to main window from transform window
+Wed Oct 27 18:18:23 EEST 2021:App started
+Wed Oct 27 18:19:15 EEST 2021:App started
+Wed Oct 27 18:21:27 EEST 2021:App started
+Wed Oct 27 18:21:57 EEST 2021:Exited App
+Wed Oct 27 20:20:15 EEST 2021:App started
+Tue Nov 09 16:04:51 EET 2021:App started
+Wed Nov 10 19:51:22 EET 2021:App started
+Wed Nov 10 19:58:41 EET 2021:Exited App
+Wed Nov 10 19:58:42 EET 2021:App started
+Wed Nov 10 19:59:53 EET 2021:App started
+Wed Nov 10 20:01:10 EET 2021:App started
+Wed Nov 10 20:02:02 EET 2021:App started
+Wed Nov 10 20:03:04 EET 2021:App started
+Wed Nov 10 20:05:41 EET 2021:App started
+Wed Nov 10 20:07:19 EET 2021:Exited App
+Thu Nov 18 21:48:39 EET 2021:App started
+Thu Nov 18 21:48:48 EET 2021:Changed Language to: Româna
+Thu Nov 18 21:48:50 EET 2021:Changed Language to: Français
+Thu Nov 18 21:48:53 EET 2021:Changed Language to: Deutsch
+Thu Nov 18 21:48:57 EET 2021:Changed Language to: Español
+Thu Nov 18 21:48:58 EET 2021:Changed Language to: Italiano
+Thu Nov 18 21:48:58 EET 2021:Changed Language to: English
+Thu Nov 18 21:49:06 EET 2021:App exited
+Thu Nov 18 21:50:34 EET 2021:App started
+Thu Nov 18 21:50:48 EET 2021:Changed Language to: Româna
+Thu Nov 18 21:50:52 EET 2021:Changed Language to: Français
+Thu Nov 18 21:50:53 EET 2021:Changed Language to: Deutsch
+Thu Nov 18 21:50:54 EET 2021:Changed Language to: Español
+Thu Nov 18 21:50:55 EET 2021:Changed Language to: Italiano
+Thu Nov 18 21:50:56 EET 2021:Changed Language to: English
+Thu Nov 18 21:51:01 EET 2021:App exited
+Thu Nov 18 21:51:51 EET 2021:App started
+Thu Nov 18 22:01:12 EET 2021:Changed theme to: light 
+Thu Nov 18 22:01:13 EET 2021:Changed theme to: dark
+Thu Nov 18 22:01:14 EET 2021:Changed theme to: light 
+Thu Nov 18 22:01:15 EET 2021:Changed theme to: dark
+Thu Nov 18 22:01:16 EET 2021:Changed theme to: light 
+Thu Nov 18 22:01:17 EET 2021:Changed theme to: dark
+Thu Nov 18 22:01:18 EET 2021:Changed theme to: light 
+Thu Nov 18 22:01:19 EET 2021:Changed theme to: dark
+Thu Nov 18 22:01:20 EET 2021:Changed Language to: Româna
+Thu Nov 18 22:01:22 EET 2021:Changed Language to: Français
+Thu Nov 18 22:01:23 EET 2021:Changed Language to: Deutsch
+Thu Nov 18 22:01:26 EET 2021:Changed Language to: Español
+Thu Nov 18 22:01:27 EET 2021:Changed Language to: Italiano
+Thu Nov 18 22:01:27 EET 2021:Changed Language to: English
+Thu Nov 18 22:01:37 EET 2021:Went back to main window from transform window
+Thu Nov 18 22:01:50 EET 2021:Exited App
+Wed Dec 01 12:56:40 EET 2021:App started
+Wed Dec 01 12:56:52 EET 2021:Changed Language to: Româna
+Wed Dec 01 12:56:53 EET 2021:Changed Language to: Français
+Wed Dec 01 12:56:54 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 12:56:56 EET 2021:Changed Language to: Español
+Wed Dec 01 12:56:57 EET 2021:Changed Language to: Italiano
+Wed Dec 01 12:57:00 EET 2021:Changed Language to: English
+Wed Dec 01 12:57:01 EET 2021:Changed Language to: Româna
+Wed Dec 01 12:57:04 EET 2021:Changed Language to: Français
+Wed Dec 01 12:57:04 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 12:57:05 EET 2021:Changed Language to: Español
+Wed Dec 01 12:57:07 EET 2021:Changed Language to: Italiano
+Wed Dec 01 12:57:07 EET 2021:Changed Language to: English
+Wed Dec 01 12:58:18 EET 2021:Changed Language to: Româna
+Wed Dec 01 12:58:18 EET 2021:Changed Language to: Français
+Wed Dec 01 12:58:19 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 12:58:20 EET 2021:Changed Language to: Español
+Wed Dec 01 12:58:21 EET 2021:Changed Language to: Italiano
+Wed Dec 01 12:58:21 EET 2021:Changed Language to: English
+Wed Dec 01 12:58:22 EET 2021:Changed Language to: Româna
+Wed Dec 01 12:58:23 EET 2021:Changed Language to: Français
+Wed Dec 01 12:58:23 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 12:58:23 EET 2021:Changed Language to: Español
+Wed Dec 01 12:58:24 EET 2021:Changed Language to: Italiano
+Wed Dec 01 12:58:24 EET 2021:Changed Language to: English
+Wed Dec 01 12:58:24 EET 2021:Changed Language to: Româna
+Wed Dec 01 12:58:25 EET 2021:Changed Language to: Français
+Wed Dec 01 12:58:25 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 12:58:25 EET 2021:Changed Language to: Español
+Wed Dec 01 12:58:25 EET 2021:Changed Language to: Italiano
+Wed Dec 01 12:58:26 EET 2021:Changed Language to: English
+Wed Dec 01 12:58:26 EET 2021:Changed Language to: Româna
+Wed Dec 01 12:58:26 EET 2021:Changed Language to: Français
+Wed Dec 01 12:58:26 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 12:58:28 EET 2021:Changed Language to: Español
+Wed Dec 01 12:58:28 EET 2021:Changed Language to: Italiano
+Wed Dec 01 12:58:29 EET 2021:Changed Language to: English
+Wed Dec 01 13:00:42 EET 2021:App exited
+Wed Dec 01 13:00:58 EET 2021:App started
+Wed Dec 01 13:01:20 EET 2021:Changed Language to: Româna
+Wed Dec 01 13:01:21 EET 2021:Changed Language to: Français
+Wed Dec 01 13:01:22 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 13:01:22 EET 2021:Changed Language to: Español
+Wed Dec 01 13:01:23 EET 2021:Changed Language to: Italiano
+Wed Dec 01 13:01:24 EET 2021:Changed Language to: English
+Wed Dec 01 13:01:25 EET 2021:Changed Language to: Româna
+Wed Dec 01 13:01:26 EET 2021:Changed Language to: Français
+Wed Dec 01 13:01:27 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 13:01:28 EET 2021:Changed Language to: Español
+Wed Dec 01 13:01:29 EET 2021:Changed Language to: Italiano
+Wed Dec 01 13:01:30 EET 2021:Changed Language to: English
+Wed Dec 01 13:01:31 EET 2021:Changed Language to: Româna
+Wed Dec 01 13:01:31 EET 2021:Changed Language to: Français
+Wed Dec 01 13:01:32 EET 2021:Changed Language to: Deutsch
+Wed Dec 01 13:01:33 EET 2021:Changed Language to: Español
+Wed Dec 01 13:01:33 EET 2021:Changed Language to: Italiano
+Wed Dec 01 13:01:34 EET 2021:Changed Language to: English
+Wed Dec 01 13:03:32 EET 2021:Exited App
+Wed Dec 01 13:20:45 EET 2021:App started
+Wed Dec 01 13:23:18 EET 2021:App started
+Wed Dec 01 13:23:43 EET 2021:App started
+Wed Dec 01 13:25:37 EET 2021:App started
+Wed Dec 01 13:26:28 EET 2021:Exited App
+Wed Dec 01 13:45:18 EET 2021:App started
+Wed Dec 01 13:49:14 EET 2021:App started
+Wed Dec 01 13:49:30 EET 2021:Converted AUD to CZK (1628571.428571)
+Wed Dec 01 13:49:43 EET 2021:Converted SHI to DOT (0.123386)
+Wed Dec 01 13:49:47 EET 2021:Converted SHI to SHI (100000)
+Wed Dec 01 13:49:48 EET 2021:Converted SHI to LIN (0.175838)
+Wed Dec 01 13:49:50 EET 2021:Converted SHI to BNB (0.007179)
+Wed Dec 01 13:49:51 EET 2021:Converted SHI to BNB (0.007179)
+Wed Dec 01 13:49:51 EET 2021:Converted SHI to BNB (0.007179)
+Wed Dec 01 13:49:52 EET 2021:Converted SHI to BNB (0.007179)
+Wed Dec 01 13:49:53 EET 2021:Converted SHI to BTC (0.000081)
+Wed Dec 01 13:49:54 EET 2021:Converted SHI to BTC (0.000081)
+Wed Dec 01 13:49:56 EET 2021:Converted DOT to USD (3757046.309747)
+Wed Dec 01 13:50:00 EET 2021:Exited App
+Wed Dec 01 13:50:56 EET 2021:App started
+Wed Dec 01 13:51:07 EET 2021:Converted AUD to CHF ()
+Wed Dec 01 13:51:09 EET 2021:Converted CHF to MXN ()
+Wed Dec 01 13:51:11 EET 2021:Converted GBP to JPY ()
+Wed Dec 01 13:51:13 EET 2021:Converted INR to NOK ()
+Wed Dec 01 13:51:20 EET 2021:Converted USD to CRO ()
+Wed Dec 01 13:51:24 EET 2021:Converted XDR to DOT ()
+Wed Dec 01 13:51:25 EET 2021:Exited App
+Wed Dec 01 19:41:50 EET 2021:App started
+Wed Dec 01 19:42:38 EET 2021:App started
+Wed Dec 01 19:44:55 EET 2021:Went back to main window from transform window
+Thu Dec 02 00:36:07 EET 2021:App started
+Thu Dec 02 00:36:41 EET 2021:App exited
+Thu Dec 02 00:44:04 EET 2021:App started
+Thu Dec 02 00:44:19 EET 2021:App started
+Thu Dec 02 00:45:59 EET 2021:App started
+Thu Dec 02 00:47:17 EET 2021:App started
+Thu Dec 02 00:48:15 EET 2021:App started
+Thu Dec 02 00:50:00 EET 2021:App started
+Thu Dec 02 00:51:27 EET 2021:App started
+Thu Dec 02 00:52:01 EET 2021:App started
+Thu Dec 02 00:59:10 EET 2021:App started
+Thu Dec 02 01:06:01 EET 2021:App started
+Thu Dec 02 01:06:40 EET 2021:Exited App
+Thu Dec 02 01:11:02 EET 2021:App started
+Thu Dec 02 01:11:09 EET 2021:App started
+Thu Dec 02 01:12:52 EET 2021:App started
+Thu Dec 02 01:27:21 EET 2021:App started
+Thu Dec 02 01:32:55 EET 2021:App started
+Thu Dec 02 01:36:59 EET 2021:App started
+Thu Dec 02 01:38:05 EET 2021:App started
+Thu Dec 02 01:51:54 EET 2021:App started
+Thu Dec 02 02:02:00 EET 2021:App started
+Thu Dec 02 02:03:49 EET 2021:App started
+Thu Dec 02 02:08:31 EET 2021:App started
+Thu Dec 02 02:09:27 EET 2021:App started
+Thu Dec 02 02:12:00 EET 2021:App started
+Thu Dec 02 02:35:38 EET 2021:App started
+Thu Dec 02 02:35:54 EET 2021:App started
+Thu Dec 02 02:35:58 EET 2021:App started
+Thu Dec 02 02:36:21 EET 2021:Exited App
+Thu Dec 02 02:36:45 EET 2021:App started
+Thu Dec 02 02:37:38 EET 2021:Exited App
+Thu Dec 02 02:42:16 EET 2021:App started
+Thu Dec 02 02:43:10 EET 2021:Went back to main window from transform window
+Thu Dec 02 02:57:02 EET 2021:App started
+Thu Dec 02 02:58:00 EET 2021:App exited
+Thu Dec 02 02:59:51 EET 2021:App started
+Thu Dec 02 11:47:24 EET 2021:App started
+Thu Dec 02 11:49:52 EET 2021:App started
+Thu Dec 02 11:50:38 EET 2021:Exited App
+Thu Dec 02 11:50:54 EET 2021:App started
+Thu Dec 02 11:52:09 EET 2021:App started
+Thu Dec 02 11:55:53 EET 2021:App started
+Thu Dec 02 12:10:30 EET 2021:App started
+Thu Dec 02 12:12:27 EET 2021:App started
+Thu Dec 02 12:13:43 EET 2021:App started
+Thu Dec 02 12:14:41 EET 2021:Exited App
+Thu Dec 02 12:15:11 EET 2021:App started
+Thu Dec 02 12:17:36 EET 2021:App started
+Thu Dec 02 12:25:00 EET 2021:App started
+Thu Dec 02 12:26:28 EET 2021:App started
+Thu Dec 02 12:28:34 EET 2021:App started
+Thu Dec 02 12:29:33 EET 2021:App started
+Thu Dec 02 12:31:54 EET 2021:App started
+Thu Dec 02 12:33:54 EET 2021:App started
+Thu Dec 02 12:36:10 EET 2021:App started
+Thu Dec 02 12:36:35 EET 2021:Exited App
+Thu Dec 02 14:10:26 EET 2021:App started
+Thu Dec 02 14:10:38 EET 2021:Converted AED to AUD ()
+Thu Dec 02 14:10:57 EET 2021:App started
+Thu Dec 02 14:11:23 EET 2021:Converted AED to BGN ()
+Thu Dec 02 14:12:09 EET 2021:App started
+Thu Dec 02 14:12:25 EET 2021:Converted AED to ETH ()
+Thu Dec 02 14:12:30 EET 2021:App exited
+Fri Dec 03 15:15:51 EET 2021:App started
+Fri Dec 03 15:16:52 EET 2021:App started
+Fri Dec 03 15:18:50 EET 2021:App started
+Fri Dec 03 15:21:21 EET 2021:App started
+Fri Dec 03 15:22:46 EET 2021:App started
+Fri Dec 03 17:04:02 EET 2021:App started
+Fri Dec 03 17:07:22 EET 2021:App started
+Fri Dec 03 17:07:35 EET 2021:App started
+Fri Dec 03 17:13:49 EET 2021:App started
+Fri Dec 03 17:14:22 EET 2021:App started
+Fri Dec 03 17:14:42 EET 2021:Exited App
+Fri Dec 03 17:17:30 EET 2021:App started
+Sat Dec 04 00:20:46 EET 2021:App started
+Sat Dec 04 00:21:47 EET 2021:App started
+Sat Dec 04 00:26:15 EET 2021:Converted BTC to AUD ()
+Sat Dec 04 00:26:45 EET 2021:Converted BTC to CAD ()
+Sat Dec 04 00:27:15 EET 2021:Went back to main window from transform window
+Sat Dec 04 00:28:23 EET 2021:Went back to main window from transform window
+Sat Dec 04 00:28:25 EET 2021:Went back to main window from transform window
+Sat Dec 04 00:28:45 EET 2021:Went back to main window from transform window
+Sat Dec 04 00:29:04 EET 2021:Changed Language to: Româna
+Sat Dec 04 00:29:06 EET 2021:Changed Language to: Français
+Sat Dec 04 00:29:06 EET 2021:Changed Language to: Deutsch
+Sat Dec 04 00:29:07 EET 2021:Changed Language to: Español
+Sat Dec 04 00:29:08 EET 2021:Changed Language to: Italiano
+Sat Dec 04 00:29:08 EET 2021:Changed Language to: English
+Sat Dec 04 00:29:10 EET 2021:Changed Language to: Româna
+Sat Dec 04 00:29:10 EET 2021:Changed Language to: Français
+Sat Dec 04 00:29:11 EET 2021:Changed Language to: Deutsch
+Sat Dec 04 00:29:12 EET 2021:Changed Language to: Français
+Sat Dec 04 00:29:12 EET 2021:Changed Language to: Româna
+Sat Dec 04 00:29:17 EET 2021:Changed Language to: Français
+Sat Dec 04 00:29:17 EET 2021:Changed Language to: Deutsch
+Sat Dec 04 00:29:18 EET 2021:Changed Language to: Español
+Sat Dec 04 00:29:19 EET 2021:Changed Language to: Italiano
+Sat Dec 04 00:29:20 EET 2021:Changed Language to: English
+Sat Dec 04 00:41:44 EET 2021:App started
+Sat Dec 04 00:43:28 EET 2021:Converted DOG to CAD ()
+Sat Dec 04 01:13:27 EET 2021:App exited
+Wed Dec 08 19:16:27 EET 2021:App started
+Wed Dec 08 19:51:28 EET 2021:Converted AUD to ETH ()
+Wed Dec 08 19:52:01 EET 2021:Exited App
+Wed Dec 15 19:57:00 EET 2021:App started
+Wed Dec 15 19:57:19 EET 2021:Converted ETH to AUD ()
+Wed Dec 15 19:57:37 EET 2021:Went back to main window from transform window
+Wed Dec 15 19:58:00 EET 2021:Went back to main window from transform window
+Wed Dec 15 19:58:04 EET 2021:Changed theme to: light 
+Wed Dec 15 19:58:04 EET 2021:Changed theme to: dark
+Wed Dec 15 19:58:05 EET 2021:Changed theme to: light 
+Wed Dec 15 19:58:12 EET 2021:Changed theme to: dark
+Wed Dec 15 19:59:36 EET 2021:Changed Language to: Romana
+Wed Dec 15 19:59:38 EET 2021:Changed Language to: Francais
+Wed Dec 15 19:59:38 EET 2021:Changed Language to: Deutsch
+Wed Dec 15 19:59:39 EET 2021:Changed Language to: Espanol
+Wed Dec 15 19:59:40 EET 2021:Changed Language to: Italiano
+Wed Dec 15 19:59:40 EET 2021:Changed Language to: English
+Wed Dec 15 19:59:51 EET 2021:Went back to main window from transform window
+Wed Dec 15 20:03:34 EET 2021:App started
+Wed Dec 15 20:26:06 EET 2021:App started
+Wed Dec 15 20:26:16 EET 2021:Changed Language to: Romana
+Wed Dec 15 20:26:32 EET 2021:Went back to main window from transform window
+Wed Dec 15 20:31:00 EET 2021:Went back to main window from transform window
+Wed Dec 15 20:32:07 EET 2021:Went back to main window from transform window
+Wed Dec 15 20:32:09 EET 2021:Went back to main window from transform window
+Wed Dec 15 20:32:42 EET 2021:Changed Language to: Francais
+Wed Dec 15 20:32:43 EET 2021:Changed Language to: Deutsch
+Wed Dec 15 20:32:44 EET 2021:Changed Language to: Espanol
+Wed Dec 15 20:32:44 EET 2021:Changed Language to: Italiano
+Wed Dec 15 20:32:45 EET 2021:Changed Language to: English
+Wed Dec 15 20:34:28 EET 2021:App exited
+Tue Dec 21 09:25:23 EET 2021:App started
+Tue Dec 21 09:26:07 EET 2021:Went back to main window from transform window
+Tue Dec 21 09:43:54 EET 2021:App exited
+Wed Dec 22 08:50:41 EET 2021:App started
+Wed Dec 22 08:51:44 EET 2021:Went back to main window from transform window
+Wed Dec 22 08:51:49 EET 2021:Went back to main window from transform window
+Wed Dec 22 08:51:51 EET 2021:Went back to main window from transform window
+Wed Dec 22 08:52:02 EET 2021:Went back to main window from transform window
+Wed Dec 22 08:52:03 EET 2021:Went back to main window from transform window
+Wed Dec 22 08:52:23 EET 2021:Went back to main window from transform window
+Wed Dec 22 08:52:27 EET 2021:Went back to main window from transform window
+Wed Dec 22 08:52:27 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:10:04 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:10:07 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:12:31 EET 2021:Exited App
+Wed Dec 22 09:28:54 EET 2021:App started
+Wed Dec 22 09:30:13 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:30:15 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:30:16 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:30:17 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:30:19 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:30:20 EET 2021:Changed Language to: English
+Wed Dec 22 09:30:59 EET 2021:App exited
+Wed Dec 22 09:33:45 EET 2021:App started
+Wed Dec 22 09:34:09 EET 2021:App exited
+Wed Dec 22 09:34:31 EET 2021:App started
+Wed Dec 22 09:34:57 EET 2021:App exited
+Wed Dec 22 09:35:54 EET 2021:App started
+Wed Dec 22 09:36:24 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:36:25 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:36:26 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:36:27 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:36:28 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:36:28 EET 2021:Changed Language to: English
+Wed Dec 22 09:36:29 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:36:30 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:36:30 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:36:30 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:36:31 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:36:31 EET 2021:Changed Language to: English
+Wed Dec 22 09:36:32 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:36:32 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:36:32 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:36:32 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:36:33 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:36:33 EET 2021:Changed Language to: English
+Wed Dec 22 09:36:33 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:36:33 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:36:33 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:36:33 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:36:34 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:36:34 EET 2021:Changed Language to: English
+Wed Dec 22 09:36:34 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:36:34 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:36:34 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:36:34 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:36:35 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:36:35 EET 2021:Changed Language to: English
+Wed Dec 22 09:36:35 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:36:36 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:36:36 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:36:37 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:36:37 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:36:38 EET 2021:Changed Language to: English
+Wed Dec 22 09:36:40 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:36:51 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:37:00 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:37:01 EET 2021:Exited App
+Wed Dec 22 09:37:30 EET 2021:App started
+Wed Dec 22 09:37:42 EET 2021:App started
+Wed Dec 22 09:37:54 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:40:32 EET 2021:App started
+Wed Dec 22 09:40:43 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:40:50 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:41:12 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:41:15 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:41:18 EET 2021:Exited App
+Wed Dec 22 09:42:01 EET 2021:App started
+Wed Dec 22 09:42:13 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:42:15 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:42:16 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:42:22 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:42:24 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:42:27 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:44:00 EET 2021:App started
+Wed Dec 22 09:44:08 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:44:10 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:44:12 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:44:14 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:44:24 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:44:34 EET 2021:App exited
+Wed Dec 22 09:46:34 EET 2021:App started
+Wed Dec 22 09:46:44 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:46:46 EET 2021:App exited
+Wed Dec 22 09:46:55 EET 2021:App started
+Wed Dec 22 09:47:04 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:47:05 EET 2021:Changed Language to: English
+Wed Dec 22 09:47:14 EET 2021:App exited
+Wed Dec 22 09:48:49 EET 2021:App started
+Wed Dec 22 09:48:57 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:49:16 EET 2021:Went back to main window from transform window
+Wed Dec 22 09:49:18 EET 2021:App exited
+Wed Dec 22 09:51:28 EET 2021:App started
+Wed Dec 22 09:51:51 EET 2021:Exited App
+Wed Dec 22 09:52:12 EET 2021:App started
+Wed Dec 22 09:52:22 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:53:06 EET 2021:App started
+Wed Dec 22 09:53:15 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:53:35 EET 2021:App started
+Wed Dec 22 09:53:43 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:53:52 EET 2021:Exited App
+Wed Dec 22 09:53:58 EET 2021:App started
+Wed Dec 22 09:54:10 EET 2021:App exited
+Wed Dec 22 09:55:14 EET 2021:App started
+Wed Dec 22 09:55:21 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:55:23 EET 2021:App exited
+Wed Dec 22 09:55:27 EET 2021:App started
+Wed Dec 22 09:55:52 EET 2021:Exited App
+Wed Dec 22 09:57:26 EET 2021:App started
+Wed Dec 22 09:57:43 EET 2021:Changed Language to: English
+Wed Dec 22 09:57:47 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:57:47 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:57:49 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:57:49 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:57:50 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:57:51 EET 2021:Changed Language to: English
+Wed Dec 22 09:57:54 EET 2021:Changed theme to: light 
+Wed Dec 22 09:57:56 EET 2021:Changed theme to: dark
+Wed Dec 22 09:58:04 EET 2021:Changed Language to: Romana
+Wed Dec 22 09:58:06 EET 2021:Changed Language to: Francais
+Wed Dec 22 09:58:11 EET 2021:App exited
+Wed Dec 22 09:58:29 EET 2021:App started
+Wed Dec 22 09:58:38 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 09:58:41 EET 2021:Changed Language to: Espanol
+Wed Dec 22 09:58:43 EET 2021:Changed Language to: Italiano
+Wed Dec 22 09:58:46 EET 2021:Changed Language to: English
+Wed Dec 22 09:58:50 EET 2021:Changed theme to: light 
+Wed Dec 22 09:58:56 EET 2021:Changed theme to: dark
+Wed Dec 22 09:58:59 EET 2021:App exited
+Wed Dec 22 09:59:45 EET 2021:App started
+Wed Dec 22 09:59:53 EET 2021:Changed theme to: light 
+Wed Dec 22 10:00:00 EET 2021:Exited App
+Wed Dec 22 10:00:24 EET 2021:App started
+Wed Dec 22 10:00:33 EET 2021:Changed Language to: Romana
+Wed Dec 22 10:00:43 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:00:45 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:00:48 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:03:31 EET 2021:App started
+Wed Dec 22 10:03:46 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:03:59 EET 2021:Exited App
+Wed Dec 22 10:14:07 EET 2021:App started
+Wed Dec 22 10:14:42 EET 2021:Exited App
+Wed Dec 22 10:18:30 EET 2021:App started
+Wed Dec 22 10:18:53 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:18:56 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:18:58 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:00 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:09 EET 2021:Changed Language to: Francais
+Wed Dec 22 10:19:13 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:22 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:24 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:33 EET 2021:Changed Language to: Deutsch
+Wed Dec 22 10:19:36 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:40 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:45 EET 2021:Changed Language to: Espanol
+Wed Dec 22 10:19:51 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:53 EET 2021:Changed Language to: Italiano
+Wed Dec 22 10:19:56 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:19:58 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:20:00 EET 2021:Changed Language to: English
+Wed Dec 22 10:20:05 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:20:08 EET 2021:Exited App
+Wed Dec 22 10:22:57 EET 2021:App started
+Wed Dec 22 10:23:07 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:23:10 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:23:12 EET 2021:Changed Language to: Romana
+Wed Dec 22 10:23:15 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:23:28 EET 2021:Exited App
+Wed Dec 22 10:26:00 EET 2021:App started
+Wed Dec 22 10:26:30 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:26:37 EET 2021:Exited App
+Wed Dec 22 10:29:30 EET 2021:App started
+Wed Dec 22 10:33:04 EET 2021:App started
+Wed Dec 22 10:33:15 EET 2021:App exited
+Wed Dec 22 10:39:36 EET 2021:App started
+Wed Dec 22 10:39:46 EET 2021:Changed Language to: English
+Wed Dec 22 10:39:47 EET 2021:Changed theme to: dark
+Wed Dec 22 10:42:14 EET 2021:Changed theme to: light 
+Wed Dec 22 10:42:15 EET 2021:Changed theme to: dark
+Wed Dec 22 10:42:22 EET 2021:Exited App
+Wed Dec 22 10:43:36 EET 2021:App started
+Wed Dec 22 10:44:04 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:44:06 EET 2021:Changed theme to: light 
+Wed Dec 22 10:44:28 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:44:49 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:44:53 EET 2021:Changed theme to: dark
+Wed Dec 22 10:45:24 EET 2021:App started
+Wed Dec 22 10:46:02 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:46:03 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:46:04 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:46:08 EET 2021:Changed theme to: light 
+Wed Dec 22 10:46:21 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:47:30 EET 2021:App started
+Wed Dec 22 10:47:40 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:47:41 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:47:42 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:47:44 EET 2021:Changed theme to: dark
+Wed Dec 22 10:48:15 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:48:16 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:48:20 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:48:22 EET 2021:Changed theme to: light 
+Wed Dec 22 10:48:28 EET 2021:Changed theme to: dark
+Wed Dec 22 10:48:45 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:48:51 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:48:53 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:48:57 EET 2021:Changed theme to: light 
+Wed Dec 22 10:50:53 EET 2021:App started
+Wed Dec 22 10:51:00 EET 2021:Changed theme to: dark
+Wed Dec 22 10:51:05 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:51:06 EET 2021:Changed theme to: light 
+Wed Dec 22 10:51:10 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:51:12 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:51:13 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:51:15 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:51:16 EET 2021:App exited
+Wed Dec 22 10:51:50 EET 2021:App started
+Wed Dec 22 10:51:59 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:52:01 EET 2021:Changed theme to: dark
+Wed Dec 22 10:53:24 EET 2021:App started
+Wed Dec 22 10:53:35 EET 2021:Exited App
+Wed Dec 22 10:53:46 EET 2021:App started
+Wed Dec 22 10:53:57 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:54:36 EET 2021:Exited App
+Wed Dec 22 10:56:03 EET 2021:App started
+Wed Dec 22 10:56:18 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:56:20 EET 2021:Changed theme to: light 
+Wed Dec 22 10:56:23 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:56:25 EET 2021:Changed theme to: dark
+Wed Dec 22 10:56:30 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:56:36 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:56:37 EET 2021:Changed theme to: light 
+Wed Dec 22 10:56:40 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:56:42 EET 2021:Changed theme to: dark
+Wed Dec 22 10:56:48 EET 2021:Exited App
+Wed Dec 22 10:58:00 EET 2021:App started
+Wed Dec 22 10:58:08 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:58:11 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:58:12 EET 2021:Changed theme to: light 
+Wed Dec 22 10:58:15 EET 2021:Went back to main window from transform window
+Wed Dec 22 10:58:16 EET 2021:Changed theme to: dark
+Wed Dec 22 10:58:18 EET 2021:App exited
+Wed Dec 22 11:00:19 EET 2021:App started
+Wed Dec 22 11:00:31 EET 2021:Went back to main window from transform window
+Wed Dec 22 11:06:19 EET 2021:Converted AUD to BRL ()
+Wed Dec 22 11:11:19 EET 2021:Went back to main window from transform window
+Wed Dec 22 11:12:12 EET 2021:Went back to main window from transform window
+Wed Dec 22 11:13:28 EET 2021:Went back to main window from transform window
+Wed Dec 22 11:13:37 EET 2021:App exited
+Wed Dec 22 11:23:44 EET 2021:App started
+Wed Dec 22 11:24:06 EET 2021:App exited
+Wed Dec 22 11:26:29 EET 2021:App started
+Wed Dec 22 11:27:36 EET 2021:App exited
+Wed Dec 22 11:28:33 EET 2021:App started
+Wed Dec 22 11:29:01 EET 2021:App exited
+Wed Dec 22 11:29:17 EET 2021:App started
+Wed Dec 22 11:29:40 EET 2021:App exited
+Wed Dec 22 11:33:13 EET 2021:App started
+Wed Dec 22 11:34:11 EET 2021:App started
+Wed Dec 22 11:35:04 EET 2021:App exited
+Wed Dec 22 11:35:09 EET 2021:App started
+Wed Dec 22 11:35:24 EET 2021:Changed theme to: light 
+Wed Dec 22 11:36:35 EET 2021:App started
+Wed Dec 22 11:36:43 EET 2021:Changed Language to: Romana
+Wed Dec 22 11:37:03 EET 2021:App exited
+Wed Dec 22 11:52:15 EET 2021:App started
+Wed Dec 22 11:52:31 EET 2021:Changed Language to: English
+Wed Dec 22 11:53:33 EET 2021:App exited
+Wed Dec 22 11:55:53 EET 2021:App started
+Wed Dec 22 11:56:49 EET 2021:App started
+Wed Dec 22 12:10:45 EET 2021:App started
+Wed Dec 22 12:12:07 EET 2021:Went back to main window from transform window
+Wed Dec 22 12:12:08 EET 2021:Went back to main window from transform window
+Wed Dec 22 12:14:50 EET 2021:App exited

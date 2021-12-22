@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
+
+<AnchorPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="584.0" prefWidth="977.0" style="-fx-background-color: #121111;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.MoneyTransformerController">
+   <children>
+      <Pane fx:id="mainMenu" prefHeight="584.0" prefWidth="983.0" style="-fx-background-color: #121111;" visible="false">
+         <children>
+            <Button fx:id="exitButtonMainPane" layoutX="445.0" layoutY="486.0" mnemonicParsing="false" onAction="#mainMenuExit" style="-fx-background-color: transparent;" text="Exit" textFill="#ebebeb">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Button>
+            <Button fx:id="transfromButtonMainPane" layoutX="121.0" layoutY="282.0" mnemonicParsing="false" onAction="#goToTransformPane" prefHeight="39.0" prefWidth="247.0" style="-fx-background-color: transparent;" text="Transform" textFill="#fdc68a">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Button>
+            <Button fx:id="settingsButtonMainPane" layoutX="678.0" layoutY="292.0" mnemonicParsing="false" onAction="#goSettingsMenu" style="-fx-background-color: transparent;" text="Settings" textFill="#ebebeb">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Button>
+            <Button fx:id="aboutButtonMainPane" layoutX="633.0" layoutY="361.0" mnemonicParsing="false" onAction="#goAbout" prefHeight="39.0" prefWidth="247.0" style="-fx-background-color: transparent;" text="About" textFill="#fdc68a">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Button>
+            <ImageView fx:id="mainmenuImageView" fitHeight="219.0" fitWidth="779.0" layoutX="102.0" layoutY="30.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../app/logo_darkmode.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="calculatorButtonMainPane" layoutX="145.0" layoutY="361.0" mnemonicParsing="false" onAction="#goToCalculatorMenu" style="-fx-background-color: transparent;" text="Calculators" textFill="#ebebeb">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Button>
+            <Button fx:id="cryptoButtonMainPane" layoutX="121.0" layoutY="430.0" mnemonicParsing="false" onAction="#goToCryptoPane" prefHeight="39.0" prefWidth="247.0" style="-fx-background-color: transparent;" text="Crypto" textFill="#fdc68a">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Button>
+            <Button fx:id="helpButtonMainPane" layoutX="701.0" layoutY="430.0" mnemonicParsing="false" onAction="#goHelpMenu" style="-fx-background-color: transparent;" text="Help" textFill="#ebebeb">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+      <Pane fx:id="settingsMenu" layoutX="-1.0" layoutY="-1.0" prefHeight="592.0" prefWidth="983.0" style="-fx-background-color: #121111;" visible="false">
+         <children>
+            <Label fx:id="titleLabelSettingsPane" layoutX="390.0" layoutY="43.0" prefHeight="36.0" prefWidth="259.0" text="Settings" textAlignment="JUSTIFY" textFill="#ebebeb">
+               <font>
+                  <Font size="38.0" />
+               </font>
+            </Label>
+            <Button fx:id="exitButtonSettingsPane" layoutX="899.0" layoutY="534.0" mnemonicParsing="false" onAction="#ExitFromSettings" style="-fx-background-color: transparent;" text="Exit" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="saveButtonExitPane" layoutX="43.0" layoutY="534.0" mnemonicParsing="false" onAction="#saveSettings" style="-fx-background-color: transparent;" text="Save" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Label fx:id="appearanceLabelSettingsPane" layoutX="81.0" layoutY="167.0" prefHeight="36.0" prefWidth="259.0" text="Apearence" textAlignment="JUSTIFY" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Button fx:id="darkModeButton" layoutX="77.0" layoutY="222.0" onAction="#darkModeSwitch" prefHeight="44.0" prefWidth="170.0" style="-fx-background-color: transparent;" text="Dark Mode" textAlignment="JUSTIFY" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="lightModeButton" layoutX="211.0" layoutY="222.0" onAction="#lightModeSwitch" prefHeight="44.0" prefWidth="170.0" style="-fx-background-color: transparent;" text="/ Light Mode" textAlignment="JUSTIFY" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Label fx:id="languageLabelSettingsPane" layoutX="112.0" layoutY="269.0" prefHeight="36.0" prefWidth="144.0" text="Language:" textAlignment="JUSTIFY" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <Button fx:id="languageDisplay" layoutX="220.0" layoutY="268.0" prefHeight="44.0" prefWidth="170.0" style="-fx-background-color: transparent;" text="English" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Label fx:id="miscLabelSettingsPane" layoutX="81.0" layoutY="320.0" prefHeight="36.0" prefWidth="259.0" text="Misc" textAlignment="JUSTIFY" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="logsLabelSettingsPane" layoutX="100.0" layoutY="362.0" prefHeight="36.0" prefWidth="106.0" text="Logs:" textAlignment="JUSTIFY" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <Label fx:id="networkingLabelSettingsPane" layoutX="623.0" layoutY="210.0" prefHeight="36.0" prefWidth="259.0" text="Networking" textAlignment="JUSTIFY" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Button fx:id="changeLanguageButton1" layoutX="322.0" layoutY="261.0" mnemonicParsing="false" onAction="#changeLanguageForward" prefHeight="54.0" prefWidth="52.0" style="-fx-background-color: transparent;" text="&gt;" textFill="#fdc68a">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </Button>
+            <Button fx:id="changeLanguageButton2" layoutX="236.0" layoutY="262.0" mnemonicParsing="false" onAction="#changeLanguageBack" prefHeight="54.0" prefWidth="52.0" style="-fx-background-color: transparent;" text="&lt;" textFill="#fdc68a">
+               <font>
+                  <Font size="21.0" />
+               </font>
+            </Button>
+            <Label fx:id="privacyLabelSettingsPane" layoutX="623.0" layoutY="369.0" prefHeight="36.0" prefWidth="259.0" text="Privacy" textAlignment="JUSTIFY" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Button fx:id="internetConLabel" layoutX="614.0" layoutY="265.0" prefHeight="44.0" prefWidth="277.0" style="-fx-background-color: transparent;" text="Allow Internet Connectivity:" textAlignment="JUSTIFY" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="internetOnOffButton" layoutX="882.0" layoutY="266.0" onMouseClicked="#onOffSwitch" prefHeight="44.0" prefWidth="62.0" style="-fx-background-color: transparent;" text="✓" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="dataBaseConLabel" layoutX="614.0" layoutY="423.0" prefHeight="44.0" prefWidth="285.0" style="-fx-background-color: transparent;" text="Let us save your preferences:" textAlignment="JUSTIFY" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="dataBaseConOnOffButton" layoutX="882.0" layoutY="423.0" onMouseClicked="#onOffSwitch" prefHeight="44.0" prefWidth="62.0" style="-fx-background-color: transparent;" text="✓" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Label fx:id="comingSoonLabelSettingsPane" layoutX="623.0" layoutY="149.0" prefHeight="36.0" prefWidth="259.0" text="Coming soon!" textAlignment="JUSTIFY" textFill="#ebebeb">
+               <font>
+                  <Font size="35.0" />
+               </font>
+            </Label>
+            <Button fx:id="logsButton" layoutX="205.0" layoutY="358.0" onMouseClicked="#onOffSwitch" prefHeight="44.0" prefWidth="62.0" style="-fx-background-color: transparent;" text="✓" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="mainmenuButtonSettingsPane" layoutX="705.0" layoutY="534.0" mnemonicParsing="false" onAction="#toMainMenuFromSettings" prefHeight="44.0" prefWidth="187.0" style="-fx-background-color: transparent;" text="Main Menu" textFill="#ebebeb">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+      <Pane fx:id="splashScreen" prefHeight="592.0" prefWidth="989.0" visible="false">
+         <children>
+            <ImageView fx:id="splashscreenImageView" fitHeight="278.0" fitWidth="692.0" layoutX="149.0" layoutY="85.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../app/logo_darkmode.png" />
+               </image>
+            </ImageView>
+            <ProgressBar fx:id="splashScreenLoading" layoutX="157.0" layoutY="396.0" prefHeight="18.0" prefWidth="681.0" />
+            <Label fx:id="progressLabel" layoutX="317.0" layoutY="425.0" prefHeight="30.0" prefWidth="480.0" text="Starting app..." textFill="#ebebeb">
+               <font>
+                  <Font name="System Italic" size="20.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="aboutMenu" layoutY="-2.0" prefHeight="592.0" prefWidth="977.0" visible="false">
+         <children>
+            <Label fx:id="versionLabelAboutPane" layoutX="261.0" layoutY="108.0" prefHeight="17.0" prefWidth="380.0" text="Version: 0.6" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="descriptionLabelAboutPane" layoutX="226.0" layoutY="144.0" prefHeight="219.0" prefWidth="549.0" text="      About App: Money Transformer&#10;      is an app designed for comparing&#10;      and to equalize different currenencies&#10;      from around the globe!" textFill="#fdc68a">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="titleLabelAboutPane" layoutX="337.0" layoutY="14.0" prefHeight="17.0" prefWidth="380.0" text="About" textFill="#fdc68a">
+               <font>
+                  <Font size="32.0" />
+               </font>
+            </Label>
+            <Label fx:id="emailLabel" layoutX="297.0" layoutY="408.0" onMouseClicked="#emailAccessLabel" onMouseEntered="#underLineButton" onMouseExited="#deUnderLineButton" prefHeight="27.0" prefWidth="380.0" text="calin.baculescu@gmail.com" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="contactTitleAboutPane" layoutX="261.0" layoutY="369.0" prefHeight="17.0" prefWidth="380.0" text="Contact me at:" textFill="#fdc68a">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="emailImageView" fitHeight="30.0" fitWidth="30.0" layoutX="261.0" layoutY="414.0" onMouseClicked="#copyEmail" pickOnBounds="true">
+               <image>
+                  <Image url="@../app/email_Ico.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="mainmenuAboutPane" layoutX="725.0" layoutY="524.0" mnemonicParsing="false" onAction="#aboutToMainMenu" style="-fx-background-color: transparent;" text="Main Menu" textFill="#fdc68a">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Button>
+            <Label fx:id="instaLabel" layoutX="297.0" layoutY="454.0" onMouseClicked="#instaAccessLabel" onMouseEntered="#underLineButton2" onMouseExited="#deUnderLineButton2" prefHeight="36.0" prefWidth="98.0" text="calin.bcs" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="instaImageView" fitHeight="30.0" fitWidth="34.0" layoutX="261.0" layoutY="457.0" onMouseClicked="#accessInsta" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../app/insta_ico.png" />
+               </image>
+            </ImageView>
+            <Label fx:id="telegramLabel" layoutX="297.0" layoutY="499.0" onMouseClicked="#telegramAccessLabel" onMouseEntered="#underLineButton3" onMouseExited="#deUnderLineButton3" prefHeight="36.0" prefWidth="178.0" text="Calin_Baculescu" textFill="#ebebeb">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="telegramImageView" fitHeight="30.0" fitWidth="34.0" layoutX="261.0" layoutY="502.0" onMouseClicked="#accessTelegram" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../app/telegram_ico.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="exitButtonAboutPane" layoutX="42.0" layoutY="535.0" mnemonicParsing="false" onAction="#aboutExit" style="-fx-background-color: transparent;" text="Exit" textFill="#fdc68a">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+      <Pane fx:id="cryptoPane" layoutX="4.0" layoutY="-2.0" prefHeight="584.0" prefWidth="977.0">
+         <children>
+            <ImageView fx:id="cryptoImageView" fitHeight="69.0" fitWidth="144.0" layoutX="543.0" layoutY="14.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../app/logo_darkmode.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="crpytoTitlePane" layoutX="316.0" layoutY="2.0" mnemonicParsing="false" prefHeight="94.0" prefWidth="218.0" style="-fx-background-color: transparent;" text="Crypto" textFill="#ebebeb">
+               <font>
+                  <Font size="41.0" />
+               </font>
+            </Button>
+            <WebView fx:id="browser" contextMenuEnabled="false" fontSmoothingType="GRAY" layoutX="62.0" layoutY="96.0" prefHeight="444.0" prefWidth="884.0" />
+            <Label fx:id="providedByLabel" layoutX="62.0" layoutY="553.0" text="*https://www.coingecko.com/en" textFill="#ebebeb" />
+            <Button fx:id="exitButtonCrypto" layoutX="877.0" layoutY="540.0" mnemonicParsing="false" onAction="#ExitFromSettings" style="-fx-background-color: transparent;" text="Exit" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Button fx:id="mainmenuButtonCrypto" layoutX="704.0" layoutY="540.0" mnemonicParsing="false" onAction="#toMainMenuFromCrpyto" prefHeight="44.0" prefWidth="187.0" style="-fx-background-color: transparent;" text="Main Menu" textFill="#ebebeb">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+         </children></Pane>
+   </children>
+</AnchorPane>

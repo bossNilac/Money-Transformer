@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <language>
+        <id>romana</id>
+        <transformText>Transforma</transformText>
+        <settingsText>Setari</settingsText>
+        <aboutText>Descriere</aboutText>
+        <exitText>Iesire</exitText>
+        <currency>Monede</currency>
+        <value>Valori</value>
+        <appearanceText>Aparenta</appearanceText>
+        <darkmodetext>Mod Intunecat</darkmodetext>
+        <lightmodetext>Mod Luminos</lightmodetext>
+        <languageText>Limba</languageText>
+        <miscText>Altele</miscText>
+        <logText>Loguri</logText>
+        <versionText>Versiune 1.0.0</versionText>
+        <aboutappText>Despre aplicatie: &#10;   Money Transformer este o aplicație conceputa&#10;   pentru compararea si egalizarea diferitelor &#10;   monezi din întreaga lume!</aboutappText>
+        <contact_me_at_Text>Contacteaza-ma</contact_me_at_Text>
+        <networkingText>Retelistica</networkingText>
+        <calculatorsText>Calculatoare</calculatorsText>
+        <helpText>Ajutor</helpText>
+        <privacyText>Intimitate</privacyText>
+        <convertText>Converteste</convertText>
+        <convertToText>la</convertToText>
+        <moreText>Mai multe</moreText>
+        <selectTableInfoText>Info tabel</selectTableInfoText>
+        <conversionTabText>Conversii</conversionTabText>
+        <calculatorTabText>Calculatoare</calculatorTabText>
+        <interestRateText>Dobanda</interestRateText>
+        <mainMenuText>Meniu Principal</mainMenuText>
+    </language>
+
+    <language>
+        <id>english</id>
+        <transformText>Transform</transformText>
+        <settingsText>Settings</settingsText>
+        <aboutText>Description</aboutText>
+        <exitText>Exit</exitText>
+        <currency>Currencies</currency>
+        <value>Values</value>
+        <appearanceText>Appearance</appearanceText>
+        <darkmodetext>Dark Mode</darkmodetext>
+        <lightmodetext>Light Mode</lightmodetext>
+        <languageText>Language</languageText>
+        <miscText>Misc</miscText>
+        <logText>Logs</logText>
+        <versionText>Version 1.0.0</versionText>
+        <aboutappText>About App: Money Transformer&#10;      is an app designed for comparing&#10;      and to equalize different currencies&#10;      from around the globe!</aboutappText>
+        <contact_me_at_Text>Conntact me</contact_me_at_Text>
+        <networkingText>Networking</networkingText>
+        <calculatorsText>Calculators</calculatorsText>
+        <helpText>Help</helpText>
+        <convertText>Convert</convertText>
+        <convertToText>to </convertToText>
+        <privacyText>Privacy</privacyText>
+        <moreText>More</moreText>
+        <selectTableInfoText>Tabel Info</selectTableInfoText>
+        <conversionTabText>Conversion Tab</conversionTabText>
+        <calculatorTabText>Calculators</calculatorTabText>
+        <interestRateText>Interest Rate</interestRateText>
+        <mainMenuText>Main Menu</mainMenuText>
+    </language>
+
+    <language>
+        <id>french</id>
+        <transformText>Transformer</transformText>
+        <settingsText>Parametres</settingsText>
+        <aboutText>La description</aboutText>
+        <exitText>Sortie</exitText>
+        <currency>Devises</currency>
+        <value>Valeurs</value>
+        <appearanceText>Apparance</appearanceText>
+        <darkmodetext>Mode Sombre</darkmodetext>
+        <lightmodetext>Mode Lumiere</lightmodetext>
+        <languageText>Langue</languageText>
+        <miscText>Autres</miscText>
+        <logText>Journaux</logText>
+        <versionText>Version 1.0.0</versionText>
+        <aboutappText>A propos de l'application: Money Transformer&#10;      est une application concue&#10;      pour comparer et egaliser les differents&#10;      pieces de monnaie du monde entier!</aboutappText>
+        <contact_me_at_Text>Conntactez moi</contact_me_at_Text>
+        <networkingText>La mise en reseau</networkingText>
+        <calculatorsText>Calculatrices</calculatorsText>
+        <helpText>Aiuto</helpText>
+        <convertText>Convertir</convertText>
+        <convertToText>a</convertToText>
+        <privacyText>Intimite</privacyText>
+        <moreText>Suite</moreText>
+        <selectTableInfoText>Tableau infos</selectTableInfoText>
+        <conversionTabText>Conversion</conversionTabText>
+        <calculatorTabText>Calculatrices</calculatorTabText>
+        <interestRateText>Taux d'interet</interestRateText>
+        <mainMenuText>Menu Principal</mainMenuText>
+
+    </language>
+
+    <language>
+        <id>italian</id>
+        <transformText>Transformare</transformText>
+        <settingsText>Impostazioni</settingsText>
+        <aboutText>Descrizione</aboutText>
+        <exitText>Uscita</exitText>
+        <currency>Valute</currency>
+        <value>Valori</value>
+        <appearanceText>Aspetto</appearanceText>
+        <darkmodetext>Modalita scura</darkmodetext>
+        <lightmodetext>Modalita luce</lightmodetext>
+        <languageText>Linguaggio</languageText>
+        <miscText>Altri</miscText>
+        <logText>Registri</logText>
+        <versionText>Versione 1.0.0</versionText>
+        <aboutappText>Informazioni sull'app: Money Transformer &#10; e un'app progettata per confrontare &#10; e per equalizzare diverse valute &#10; da tutto il mondo!</aboutappText>
+        <contact_me_at_Text>Contattami</contact_me_at_Text>
+        <networkingText>Networking</networkingText>
+        <calculatorsText>Calcolatori</calculatorsText>
+        <helpText>Aiuto</helpText>
+        <convertText>Convertire</convertText>
+        <convertToText>a</convertToText>
+        <privacyText>Privacy</privacyText>
+        <moreText>Di piu</moreText>
+        <selectTableInfoText>Tabella info</selectTableInfoText>
+        <conversionTabText>Conversione</conversionTabText>
+        <calculatorTabText>Calcolatori</calculatorTabText>
+        <interestRateText>Tasso d'interesse</interestRateText>
+        <mainMenuText>Menu principale</mainMenuText>
+    </language>
+
+    <language>
+        <id>espanish</id>
+        <transformText>Transformar</transformText>
+        <settingsText>Configuraciones</settingsText>
+        <aboutText>Descrizione</aboutText>
+        <exitText>Salida</exitText>
+        <currency>Monedas</currency>
+        <value>Valores</value>
+        <appearanceText>Apariencia</appearanceText>
+        <darkmodetext>Modo oscuro</darkmodetext>
+        <lightmodetext>Modo de luz</lightmodetext>
+        <languageText>Idioma</languageText>
+        <miscText>Otras</miscText>
+        <logText>Registri</logText>
+        <versionText>Versione 1.0.0</versionText>
+        <aboutappText>Acerca de la aplicacion: Money Transformer &#10; es una aplicacion disenada para comparar &#10; y para igualar diferentes monedas &#10; de todo el mundo!</aboutappText>
+        <contact_me_at_Text>Contáctame</contact_me_at_Text>
+        <networkingText>Redes</networkingText>
+        <calculatorsText>Calculadoras</calculatorsText>
+        <helpText>Ayudar</helpText>
+        <convertText>Convertir</convertText>
+        <convertToText>a</convertToText>
+        <privacyText>Intimidad</privacyText>
+        <moreText>Mas</moreText>
+        <selectTableInfoText>Mesa info</selectTableInfoText>
+        <conversionTabText>Conversion</conversionTabText>
+        <calculatorTabText>Calculadoras</calculatorTabText>
+        <interestRateText>Tasa de interés</interestRateText>
+        <mainMenuText>Menu principal</mainMenuText>
+    </language>
+
+    <language>
+        <id>deutsch</id>
+        <transformText>Verwandeln</transformText>
+        <settingsText>die Einstellungen</settingsText>
+        <aboutText>Beschreibung</aboutText>
+        <exitText>Ausgang</exitText>
+        <currency>Währungen</currency>
+        <value>Werte</value>
+        <appearanceText>Aussehen</appearanceText>
+        <darkmodetext>Dunkler Modus</darkmodetext>
+        <lightmodetext>Lichtmodus</lightmodetext>
+        <languageText>Sprache</languageText>
+        <miscText>Sonstiges</miscText>
+        <logText>Protokolle</logText>
+        <versionText>Ausfuhrung 1.0.0</versionText>
+        <aboutappText>Über App: Geldtransformator &#10; ist eine App zum Vergleichen von&#10; und um verschiedene Währungen auszugleichen &#10; aus der ganzen Welt!</aboutappText>
+        <contact_me_at_Text>Kontaktiere mich</contact_me_at_Text>
+        <networkingText>Vernetzung</networkingText>
+        <calculatorsText>Rechner</calculatorsText>
+        <helpText>Hilfe</helpText>
+        <convertText>Konvertieren</convertText>
+        <convertToText>zu</convertToText>
+        <privacyText>Privatsphäre</privacyText>
+        <moreText>Mehr</moreText>
+        <selectTableInfoText>Tischinfos</selectTableInfoText>
+        <conversionTabText>Wandlung</conversionTabText>
+        <calculatorTabText>Rechner</calculatorTabText>
+        <interestRateText>Zinsrate</interestRateText>
+        <mainMenuText>Hauptmenu</mainMenuText>
+    </language>
+</class>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="main" prefHeight="705.0" prefWidth="832.0" style="-fx-background-color: #121111;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controller.CalculatorTabController">
+   <children>
+      <SplitMenuButton fx:id="interestRateButton" layoutX="29.0" layoutY="53.0" mnemonicParsing="false" text="Interest rate">
+        <items>
+          <MenuItem mnemonicParsing="false" onAction="#toBasicPane" text="Basic" />
+          <MenuItem mnemonicParsing="false" onAction="#toComposedPane" text="Compound" />
+        </items>
+         <font>
+            <Font size="20.0" />
+         </font>
+      </SplitMenuButton>
+      <Pane fx:id="basicInterestRateCalcPane" layoutY="120.0" prefHeight="510.0" prefWidth="832.0" visible="false">
+         <children>
+            <TextField fx:id="depositInput" layoutX="60.0" layoutY="82.0" prefHeight="25.0" prefWidth="283.0" promptText="Type the depozit">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="interestRateInput" layoutX="619.0" layoutY="82.0" prefHeight="44.0" prefWidth="143.0" promptText="Interest Rate">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="daysInput" layoutX="399.0" layoutY="82.0" prefHeight="44.0" prefWidth="170.0" promptText="Number of Days">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </TextField>
+            <Button fx:id="calculateDobandaButon" layoutX="343.0" layoutY="244.0" mnemonicParsing="false" onAction="#calculateDobanda" style="-fx-background-color: transparent;" text="Calculate !" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Label fx:id="resultLabelCalculatorTab" layoutX="295.0" layoutY="181.0" textFill="#fdc68a">
+               <font>
+                  <Font size="33.0" />
+               </font>
+            </Label>
+         </children> 
+      </Pane>
+      <ImageView fx:id="mainImageViewCalculatorTab" fitHeight="91.0" fitWidth="227.0" layoutX="571.0" layoutY="29.0" pickOnBounds="true">
+         <image>
+            <Image url="@../app/logo_darkmode.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="calculatorLabel" layoutX="290.0" layoutY="50.0" text="Calculator Tab" textFill="#fdc68a">
+         <font>
+            <Font size="33.0" />
+         </font>
+      </Label>
+      <Pane fx:id="composedInterestRateCalcPane" layoutX="10.0" layoutY="130.0" prefHeight="510.0" prefWidth="832.0">
+         <children>
+            <TextField fx:id="depositInput2" layoutX="60.0" layoutY="82.0" prefHeight="25.0" prefWidth="283.0" promptText="Type the depozit">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="interestRateInput2" layoutX="619.0" layoutY="82.0" prefHeight="44.0" prefWidth="143.0" promptText="Interest Rate">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </TextField>
+            <TextField fx:id="yearInput" layoutX="399.0" layoutY="82.0" prefHeight="44.0" prefWidth="185.0" promptText="Number of Years">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </TextField>
+            <Button fx:id="calculateDobanda2Buton" layoutX="339.0" layoutY="289.0" mnemonicParsing="false" onAction="#calculateDobandaComposed" style="-fx-background-color: transparent;" text="Calculate !" textFill="#fdc68a">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Button>
+            <Label fx:id="resultLabelCalculatorTab2" layoutX="324.0" layoutY="240.0" textFill="#fdc68a">
+               <font>
+                  <Font size="33.0" />
+               </font>
+            </Label>
+            <TextField fx:id="periodInput" layoutX="60.0" layoutY="155.0" prefHeight="44.0" prefWidth="185.0" promptText="Number of Years">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </TextField>
+         </children>
+      </Pane>
+      <Button fx:id="exitButtonCalc" layoutX="721.0" layoutY="647.0" mnemonicParsing="false" onAction="#ExitFromCalc" style="-fx-background-color: transparent;" text="Exit" textFill="#fdc68a">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button fx:id="mainmenuButtonCalc" layoutX="29.0" layoutY="640.0" mnemonicParsing="false" onAction="#toMainMenuFromCalc" style="-fx-background-color: transparent;" text="Main Menu" textFill="#ebebeb">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

@@ -1,0 +1,50 @@
+table{
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+
+
+h1{
+    text-align: center;
+    color: #06374e;
+    font-family:  Helvetica, sans-serif;
+}
+h3{
+    text-align: center;
+    color: #06374e;
+    font-family:  Helvetica, sans-serif;
+}
+img{
+    width: 259;
+    height: 194;
+}
+body{
+    color:#06374e;
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;;
+    text-align: center;
+    }
+.div_sus{
+      width: 80%;
+      background-color:white;
+      padding: 1px;
+      margin-left: 70px;
+      margin-right: 100px;
+  }
+  .div_jos{
+      width: 80%;
+      padding: 1px;
+      background-color: white;
+      margin-left: 70px;
+      margin-right: 100px;
+  }
+  .div_jos2{
+    width: 80%;
+    padding: 1px;
+    background-color: white;
+    margin-left: 70px;
+    margin-right: 100px;
+}
+
+
+    
